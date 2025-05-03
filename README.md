@@ -26,7 +26,7 @@ This repository contains the computational workflow for analyzing multi-temporal
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/mediterranean-forest-cover-change.git
+git clone  https://github.com/zafariabbas68/Mediterranean-forest-cover-change
 cd mediterranean-forest-cover-change
 
 # Create conda environment
