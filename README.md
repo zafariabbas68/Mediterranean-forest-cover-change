@@ -103,25 +103,7 @@ setup_grass()
 # Now you can use GRASS Python bindings
 import grass.script as gs
 gs.run_command('g.list', type='raster')
-```
 
-### Recommended Repository Structure:
-```
-Thesis_project/
-├── scripts/
-│   ├── activate_grass.sh
-│   ├── grass_env.py
-│   └── utilities.py
-├── notebooks/
-│   └── 01_grass_setup.ipynb
-├── environment.yml
-└── README.md
-```
-
-### Update Your README.md:
-Add these instructions to your README:
-
-```markdown
 ## GRASS GIS Setup
 
 1. Activate the environment:
@@ -176,11 +158,12 @@ Would you like me to:
 ## 🤝 How to Cite
 If you use this code in your research, please cite:
 ```
-Your Name (2024). Forest Cover Change Analysis in Mediterranean. [GitHub]. https://github.com/yourusername/mediterranean-forest-cover-change
+Ghulam Abbas Zafari (2025). Forest Cover Change Analysis in Mediterranean.  https://github.com/zafariabbas68/Mediterranean-forest-cover-change
 ```
 
 ## 📜 License
 MIT License - See [LICENSE](LICENSE) for details.
 
 ## 🆘 Support
-For technical issues, please open a 
+For technical issues, contact to this Add:
+ghulamabbas.zafari@mail.polimi.it
