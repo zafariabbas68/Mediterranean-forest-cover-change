@@ -29,14 +29,6 @@ This repository contains the computational workflow for analyzing multi-temporal
 git clone  https://github.com/zafariabbas68/Mediterranean-forest-cover-change
 cd mediterranean-forest-cover-change
 
-I'll help you integrate the GRASS GIS environment activation into your project setup. Here's how to properly organize this:
-
-### Recommended Approach: Create an Environment Setup Script
-
-1. **Create a new file called `activate_grass.sh` in your `scripts/` directory**:
-```bash
-#!/bin/bash
-
 # Activate Conda environment
 conda activate Geogis
 
