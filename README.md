@@ -110,10 +110,6 @@ from scripts.grass_env import setup_grass
 setup_grass()
 ```
 
-Would you like me to:
-1. Add error handling to the activation script?
-2. Provide a sample Jupyter notebook using this setup?
-3. Explain how to create the GRASS location "mediterranean"?
 
 ## 📂 Repository Structure
 ```
