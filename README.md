@@ -75,9 +75,7 @@ grassdb: ~/grassdata/mediterranean_analysis
    - Sankey diagrams of land cover transitions
    - Spatial hot-spot maps
 
-## 📊 Example Outputs
-![Change Matrix](results/figures/transition_matrix.png)  
-*Fig. 1: Forest cover transition matrix (1992-2020)*
+
 
 ## 🤝 How to Cite
 If you use this code in your research, please cite:
