@@ -1,6 +1,4 @@
-Here's a comprehensive `README.md` template for your GitHub repository, formatted with all the essential sections for your thesis project:
 
-```markdown
 # Forest Cover Change Analysis in the Mediterranean Basin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -91,19 +89,4 @@ Your Name (2024). Forest Cover Change Analysis in Mediterranean. [GitHub]. https
 MIT License - See [LICENSE](LICENSE) for details.
 
 ## 🆘 Support
-For technical issues, please open a [GitHub Issue](https://github.com/yourusername/mediterranean-forest-cover-change/issues).
-```
-
-### Key Features of This README:
-1. **Badges**: Visual indicators for license and tech stack
-2. **Structured Setup**: Clear installation and configuration steps
-3. **Visual Hierarchy**: Uses headers and code blocks effectively
-4. **Reproducibility**: Includes environment and path management
-5. **Citation Ready**: Provides academic credit format
-6. **Modular**: Easy to update specific sections
-
-Would you like me to:
-1. Add specific GRASS GIS command examples?
-2. Include a sample figure/result placeholder?
-3. Add a data availability statement for ESA/GLC datasets?
-4. Include a contributor's guide section?
+For technical issues, please open a 
