@@ -139,7 +139,7 @@ setup_grass()
    ```
 3. **Visualization**:
    - Sankey diagrams of land cover transitions
-   - Spatial hot-spot maps
+   - Persistence of Land Cover Classes Over Time
 
 ![Landcover Change Transition](data/Landcover_change_transition.png)
 ![Persistence of Land Cover Classes Over Time](data/Persistence%20of%20Land%20Cover%20Classes%20Over%20Time.png)
