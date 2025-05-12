@@ -16,6 +16,15 @@ This repository contains the computational workflow for analyzing multi-temporal
 - **Study Area**: Mediterranean basin (Lat: 28°-46°N, Lon: 10°W-36°E)
 - **Methodology**: Transition matrix analysis, Change detection metrics, Spatial pattern analysis
 
+
+
+
+## Reprojected 2018 Land Cover Map
+
+![Reprojected Land Cover Map](data/reprojected_3035_C3S-LC-L4-LCCS-Map-300m-P1Y-2018-v2.1.1.area-subset.48.40.30.-10_reclass_clean_ultraHD.png)
+
+
+
 ## 🛠️ Technical Setup
 
 ### Prerequisites
