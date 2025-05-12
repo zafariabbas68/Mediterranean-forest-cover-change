@@ -141,7 +141,14 @@ setup_grass()
    - Sankey diagrams of land cover transitions
    - Persistence of Land Cover Classes Over Time
 
+# Land Cover Change Project
+
+## Land Cover Change Transition
+
 ![Landcover Change Transition](data/Landcover_change_transition.png)
+
+## Persistence of Land Cover Classes Over Time
+
 ![Persistence of Land Cover Classes Over Time](data/Persistence%20of%20Land%20Cover%20Classes%20Over%20Time.png)
 
 
