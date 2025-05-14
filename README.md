@@ -120,8 +120,6 @@ setup_grass()
 ```
 
 
-![Sankey Diagram of Land Cover Transitions](images/GLC_landcover_transition_sankey_diagram.png)
-
 
 
 ## 📂 Repository Structure
