@@ -118,7 +118,7 @@ source scripts/activate_grass.sh
 from scripts.grass_env import setup_grass
 setup_grass()
 ```
-## Land Cover Transition Sankey Diagram
+
 
 ![Sankey Diagram of Land Cover Transitions](images/GLC_landcover_transition_sankey_diagram.png)
 
