@@ -1,0 +1,1670 @@
+From,To,Count,Area_km2,Period,From_label,To_label
+5,5,30888,2779.92,1985-1990,Shrubland,Shrubland
+5,7,458,41.22,1985-1990,Shrubland,Grassland
+5,8,735,66.14999999999999,1985-1990,Shrubland,Cropland
+5,9,64,5.76,1985-1990,Shrubland,Wetland
+5,12,4,0.36,1985-1990,Shrubland,Bareland
+5,13,214,19.259999999999998,1985-1990,Shrubland,Built-up
+5,15,93,8.37,1985-1990,Shrubland,Water
+5,20,1232,110.88,1985-1990,Shrubland,Forest
+7,5,710,63.9,1985-1990,Grassland,Shrubland
+7,7,339080,30517.199999999997,1985-1990,Grassland,Grassland
+7,8,7459,671.31,1985-1990,Grassland,Cropland
+7,9,3,0.27,1985-1990,Grassland,Wetland
+7,13,105,9.45,1985-1990,Grassland,Built-up
+7,20,7244,651.9599999999999,1985-1990,Grassland,Forest
+8,5,2430,218.7,1985-1990,Cropland,Shrubland
+8,7,13392,1205.28,1985-1990,Cropland,Grassland
+8,8,1702489,153224.00999999998,1985-1990,Cropland,Cropland
+8,9,975,87.75,1985-1990,Cropland,Wetland
+8,12,18,1.6199999999999999,1985-1990,Cropland,Bareland
+8,13,7624,686.16,1985-1990,Cropland,Built-up
+8,15,908,81.72,1985-1990,Cropland,Water
+8,20,17241,1551.69,1985-1990,Cropland,Forest
+9,5,3,0.27,1985-1990,Wetland,Shrubland
+9,8,190,17.099999999999998,1985-1990,Wetland,Cropland
+9,9,1538,138.42,1985-1990,Wetland,Wetland
+9,12,1,0.09,1985-1990,Wetland,Bareland
+9,15,148,13.32,1985-1990,Wetland,Water
+9,20,249,22.41,1985-1990,Wetland,Forest
+12,5,14,1.26,1985-1990,Bareland,Shrubland
+12,8,29,2.61,1985-1990,Bareland,Cropland
+12,9,48,4.32,1985-1990,Bareland,Wetland
+12,12,118,10.62,1985-1990,Bareland,Bareland
+12,13,6,0.54,1985-1990,Bareland,Built-up
+12,15,21,1.89,1985-1990,Bareland,Water
+12,20,22,1.98,1985-1990,Bareland,Forest
+13,13,81222,7309.98,1985-1990,Built-up,Built-up
+13,20,1,0.09,1985-1990,Built-up,Forest
+15,5,3,0.27,1985-1990,Water,Shrubland
+15,8,33,2.9699999999999998,1985-1990,Water,Cropland
+15,9,552,49.68,1985-1990,Water,Wetland
+15,12,8,0.72,1985-1990,Water,Bareland
+15,15,553,49.769999999999996,1985-1990,Water,Water
+15,20,27,2.4299999999999997,1985-1990,Water,Forest
+20,5,2035,183.15,1985-1990,Forest,Shrubland
+20,7,9692,872.28,1985-1990,Forest,Grassland
+20,8,14637,1317.33,1985-1990,Forest,Cropland
+20,9,204,18.36,1985-1990,Forest,Wetland
+20,12,1,0.09,1985-1990,Forest,Bareland
+20,13,17,1.53,1985-1990,Forest,Built-up
+20,15,176,15.84,1985-1990,Forest,Water
+20,20,2359632,212366.88,1985-1990,Forest,Forest
+5,5,30291,2726.19,1990-1995,Shrubland,Shrubland
+5,7,977,87.92999999999999,1990-1995,Shrubland,Grassland
+5,8,2228,200.51999999999998,1990-1995,Shrubland,Cropland
+5,9,8,0.72,1990-1995,Shrubland,Wetland
+5,12,7,0.63,1990-1995,Shrubland,Bareland
+5,13,232,20.88,1990-1995,Shrubland,Built-up
+5,15,30,2.6999999999999997,1990-1995,Shrubland,Water
+5,20,2310,207.9,1990-1995,Shrubland,Forest
+7,5,866,77.94,1990-1995,Grassland,Shrubland
+7,7,344868,31038.12,1990-1995,Grassland,Grassland
+7,8,10813,973.17,1990-1995,Grassland,Cropland
+7,9,2,0.18,1990-1995,Grassland,Wetland
+7,12,1,0.09,1990-1995,Grassland,Bareland
+7,13,67,6.029999999999999,1990-1995,Grassland,Built-up
+7,15,1,0.09,1990-1995,Grassland,Water
+7,20,6004,540.36,1990-1995,Grassland,Forest
+8,5,2015,181.35,1990-1995,Cropland,Shrubland
+8,7,11375,1023.75,1990-1995,Cropland,Grassland
+8,8,1695581,152602.29,1990-1995,Cropland,Cropland
+8,9,225,20.25,1990-1995,Cropland,Wetland
+8,12,29,2.61,1990-1995,Cropland,Bareland
+8,13,5897,530.73,1990-1995,Cropland,Built-up
+8,15,556,50.04,1990-1995,Cropland,Water
+8,20,9894,890.4599999999999,1990-1995,Cropland,Forest
+9,5,2,0.18,1990-1995,Wetland,Shrubland
+9,8,126,11.34,1990-1995,Wetland,Cropland
+9,9,1766,158.94,1990-1995,Wetland,Wetland
+9,12,1,0.09,1990-1995,Wetland,Bareland
+9,13,1,0.09,1990-1995,Wetland,Built-up
+9,15,1335,120.14999999999999,1990-1995,Wetland,Water
+9,20,153,13.77,1990-1995,Wetland,Forest
+12,5,9,0.8099999999999999,1990-1995,Bareland,Shrubland
+12,8,20,1.7999999999999998,1990-1995,Bareland,Cropland
+12,9,3,0.27,1990-1995,Bareland,Wetland
+12,12,97,8.73,1990-1995,Bareland,Bareland
+12,15,6,0.54,1990-1995,Bareland,Water
+12,20,15,1.3499999999999999,1990-1995,Bareland,Forest
+13,13,89186,8026.74,1990-1995,Built-up,Built-up
+13,20,2,0.18,1990-1995,Built-up,Forest
+15,5,1,0.09,1990-1995,Water,Shrubland
+15,8,5,0.44999999999999996,1990-1995,Water,Cropland
+15,9,13,1.17,1990-1995,Water,Wetland
+15,15,1877,168.93,1990-1995,Water,Water
+15,20,3,0.27,1990-1995,Water,Forest
+20,5,1850,166.5,1990-1995,Forest,Shrubland
+20,7,11604,1044.36,1990-1995,Forest,Grassland
+20,8,24213,2179.17,1990-1995,Forest,Cropland
+20,9,197,17.73,1990-1995,Forest,Wetland
+20,12,1,0.09,1990-1995,Forest,Bareland
+20,13,7,0.63,1990-1995,Forest,Built-up
+20,15,318,28.619999999999997,1990-1995,Forest,Water
+20,20,2347458,211271.22,1990-1995,Forest,Forest
+5,5,13457,1211.1299999999999,1995-2000,Shrubland,Shrubland
+5,7,1650,148.5,1995-2000,Shrubland,Grassland
+5,8,5827,524.43,1995-2000,Shrubland,Cropland
+5,9,84,7.56,1995-2000,Shrubland,Wetland
+5,11,217,19.529999999999998,1995-2000,Shrubland,Lichens and mosses
+5,12,44,3.96,1995-2000,Shrubland,Bareland
+5,13,3351,301.59,1995-2000,Shrubland,Built-up
+5,15,17,1.53,1995-2000,Shrubland,Water
+5,20,10387,934.8299999999999,1995-2000,Shrubland,Forest
+7,5,5858,527.22,1995-2000,Grassland,Shrubland
+7,7,280213,25219.17,1995-2000,Grassland,Grassland
+7,8,48136,4332.24,1995-2000,Grassland,Cropland
+7,9,32,2.88,1995-2000,Grassland,Wetland
+7,11,414,37.26,1995-2000,Grassland,Lichens and mosses
+7,12,1,0.09,1995-2000,Grassland,Bareland
+7,13,1491,134.19,1995-2000,Grassland,Built-up
+7,15,1,0.09,1995-2000,Grassland,Water
+7,20,32678,2941.02,1995-2000,Grassland,Forest
+8,5,4212,379.08,1995-2000,Cropland,Shrubland
+8,7,14403,1296.27,1995-2000,Cropland,Grassland
+8,8,1634549,147109.41,1995-2000,Cropland,Cropland
+8,9,1367,123.03,1995-2000,Cropland,Wetland
+8,11,412,37.08,1995-2000,Cropland,Lichens and mosses
+8,12,90,8.1,1995-2000,Cropland,Bareland
+8,13,53996,4859.639999999999,1995-2000,Cropland,Built-up
+8,15,793,71.36999999999999,1995-2000,Cropland,Water
+8,20,23164,2084.7599999999998,1995-2000,Cropland,Forest
+9,5,8,0.72,1995-2000,Wetland,Shrubland
+9,8,26,2.34,1995-2000,Wetland,Cropland
+9,9,2026,182.34,1995-2000,Wetland,Wetland
+9,12,1,0.09,1995-2000,Wetland,Bareland
+9,13,4,0.36,1995-2000,Wetland,Built-up
+9,15,56,5.04,1995-2000,Wetland,Water
+9,20,93,8.37,1995-2000,Wetland,Forest
+12,5,16,1.44,1995-2000,Bareland,Shrubland
+12,8,11,0.99,1995-2000,Bareland,Cropland
+12,9,5,0.44999999999999996,1995-2000,Bareland,Wetland
+12,12,26,2.34,1995-2000,Bareland,Bareland
+12,13,71,6.39,1995-2000,Bareland,Built-up
+12,15,1,0.09,1995-2000,Bareland,Water
+12,20,6,0.54,1995-2000,Bareland,Forest
+13,5,414,37.26,1995-2000,Built-up,Shrubland
+13,7,115,10.35,1995-2000,Built-up,Grassland
+13,8,3761,338.49,1995-2000,Built-up,Cropland
+13,9,1,0.09,1995-2000,Built-up,Wetland
+13,11,80,7.199999999999999,1995-2000,Built-up,Lichens and mosses
+13,12,1,0.09,1995-2000,Built-up,Bareland
+13,13,90988,8188.92,1995-2000,Built-up,Built-up
+13,20,30,2.6999999999999997,1995-2000,Built-up,Forest
+15,5,5,0.44999999999999996,1995-2000,Water,Shrubland
+15,8,10,0.8999999999999999,1995-2000,Water,Cropland
+15,9,62,5.58,1995-2000,Water,Wetland
+15,12,10,0.8999999999999999,1995-2000,Water,Bareland
+15,13,2,0.18,1995-2000,Water,Built-up
+15,15,4008,360.71999999999997,1995-2000,Water,Water
+15,20,26,2.34,1995-2000,Water,Forest
+20,5,7370,663.3,1995-2000,Forest,Shrubland
+20,7,13116,1180.44,1995-2000,Forest,Grassland
+20,8,87894,7910.46,1995-2000,Forest,Cropland
+20,9,857,77.13,1995-2000,Forest,Wetland
+20,11,11,0.99,1995-2000,Forest,Lichens and mosses
+20,12,102,9.18,1995-2000,Forest,Bareland
+20,13,362,32.58,1995-2000,Forest,Built-up
+20,15,196,17.64,1995-2000,Forest,Water
+20,20,2255931,203033.78999999998,1995-2000,Forest,Forest
+5,5,27483,2473.47,2000-2001,Shrubland,Shrubland
+5,7,454,40.86,2000-2001,Shrubland,Grassland
+5,8,1777,159.93,2000-2001,Shrubland,Cropland
+5,9,18,1.6199999999999999,2000-2001,Shrubland,Wetland
+5,11,26,2.34,2000-2001,Shrubland,Lichens and mosses
+5,12,10,0.8999999999999999,2000-2001,Shrubland,Bareland
+5,13,483,43.47,2000-2001,Shrubland,Built-up
+5,20,1089,98.00999999999999,2000-2001,Shrubland,Forest
+7,5,1203,108.27,2000-2001,Grassland,Shrubland
+7,7,292709,26343.809999999998,2000-2001,Grassland,Grassland
+7,8,11319,1018.7099999999999,2000-2001,Grassland,Cropland
+7,11,34,3.06,2000-2001,Grassland,Lichens and mosses
+7,12,1,0.09,2000-2001,Grassland,Bareland
+7,13,429,38.61,2000-2001,Grassland,Built-up
+7,20,3802,342.18,2000-2001,Grassland,Forest
+8,5,1386,124.74,2000-2001,Cropland,Shrubland
+8,7,5532,497.88,2000-2001,Cropland,Grassland
+8,8,1752127,157691.43,2000-2001,Cropland,Cropland
+8,9,36,3.2399999999999998,2000-2001,Cropland,Wetland
+8,11,82,7.38,2000-2001,Cropland,Lichens and mosses
+8,12,14,1.26,2000-2001,Cropland,Bareland
+8,13,13222,1189.98,2000-2001,Cropland,Built-up
+8,20,7815,703.35,2000-2001,Cropland,Forest
+9,5,21,1.89,2000-2001,Wetland,Shrubland
+9,8,94,8.459999999999999,2000-2001,Wetland,Cropland
+9,9,3485,313.65,2000-2001,Wetland,Wetland
+9,12,5,0.44999999999999996,2000-2001,Wetland,Bareland
+9,13,6,0.54,2000-2001,Wetland,Built-up
+9,15,647,58.23,2000-2001,Wetland,Water
+9,20,176,15.84,2000-2001,Wetland,Forest
+11,5,36,3.2399999999999998,2000-2001,Lichens and mosses,Shrubland
+11,7,94,8.459999999999999,2000-2001,Lichens and mosses,Grassland
+11,8,90,8.1,2000-2001,Lichens and mosses,Cropland
+11,11,802,72.17999999999999,2000-2001,Lichens and mosses,Lichens and mosses
+11,13,104,9.36,2000-2001,Lichens and mosses,Built-up
+11,20,8,0.72,2000-2001,Lichens and mosses,Forest
+12,5,5,0.44999999999999996,2000-2001,Bareland,Shrubland
+12,8,14,1.26,2000-2001,Bareland,Cropland
+12,9,4,0.36,2000-2001,Bareland,Wetland
+12,12,232,20.88,2000-2001,Bareland,Bareland
+12,13,8,0.72,2000-2001,Bareland,Built-up
+12,15,2,0.18,2000-2001,Bareland,Water
+12,20,10,0.8999999999999999,2000-2001,Bareland,Forest
+13,5,151,13.59,2000-2001,Built-up,Shrubland
+13,7,355,31.95,2000-2001,Built-up,Grassland
+13,8,7539,678.51,2000-2001,Built-up,Cropland
+13,9,2,0.18,2000-2001,Built-up,Wetland
+13,11,65,5.85,2000-2001,Built-up,Lichens and mosses
+13,12,1,0.09,2000-2001,Built-up,Bareland
+13,13,142035,12783.15,2000-2001,Built-up,Built-up
+13,20,117,10.53,2000-2001,Built-up,Forest
+15,5,6,0.54,2000-2001,Water,Shrubland
+15,7,1,0.09,2000-2001,Water,Grassland
+15,8,2,0.18,2000-2001,Water,Cropland
+15,9,104,9.36,2000-2001,Water,Wetland
+15,12,3,0.27,2000-2001,Water,Bareland
+15,13,4,0.36,2000-2001,Water,Built-up
+15,15,4934,444.06,2000-2001,Water,Water
+15,20,18,1.6199999999999999,2000-2001,Water,Forest
+20,5,1907,171.63,2000-2001,Forest,Shrubland
+20,7,2141,192.69,2000-2001,Forest,Grassland
+20,8,15129,1361.61,2000-2001,Forest,Cropland
+20,9,120,10.799999999999999,2000-2001,Forest,Wetland
+20,12,10,0.8999999999999999,2000-2001,Forest,Bareland
+20,13,209,18.81,2000-2001,Forest,Built-up
+20,15,5,0.44999999999999996,2000-2001,Forest,Water
+20,20,2302794,207251.46,2000-2001,Forest,Forest
+5,5,17528,1577.52,2001-2002,Shrubland,Shrubland
+5,7,3987,358.83,2001-2002,Shrubland,Grassland
+5,8,6158,554.22,2001-2002,Shrubland,Cropland
+5,9,17,1.53,2001-2002,Shrubland,Wetland
+5,11,52,4.68,2001-2002,Shrubland,Lichens and mosses
+5,12,17,1.53,2001-2002,Shrubland,Bareland
+5,13,385,34.65,2001-2002,Shrubland,Built-up
+5,15,11,0.99,2001-2002,Shrubland,Water
+5,20,4043,363.87,2001-2002,Shrubland,Forest
+7,5,6717,604.53,2001-2002,Grassland,Shrubland
+7,7,222308,20007.719999999998,2001-2002,Grassland,Grassland
+7,8,50004,4500.36,2001-2002,Grassland,Cropland
+7,9,1,0.09,2001-2002,Grassland,Wetland
+7,11,185,16.65,2001-2002,Grassland,Lichens and mosses
+7,12,4,0.36,2001-2002,Grassland,Bareland
+7,13,880,79.2,2001-2002,Grassland,Built-up
+7,15,3,0.27,2001-2002,Grassland,Water
+7,20,21184,1906.56,2001-2002,Grassland,Forest
+8,5,12291,1106.19,2001-2002,Cropland,Shrubland
+8,7,44836,4035.24,2001-2002,Cropland,Grassland
+8,8,1649357,148442.13,2001-2002,Cropland,Cropland
+8,9,64,5.76,2001-2002,Cropland,Wetland
+8,11,188,16.919999999999998,2001-2002,Cropland,Lichens and mosses
+8,12,35,3.15,2001-2002,Cropland,Bareland
+8,13,22420,2017.8,2001-2002,Cropland,Built-up
+8,15,100,9.0,2001-2002,Cropland,Water
+8,20,58800,5292.0,2001-2002,Cropland,Forest
+9,5,37,3.33,2001-2002,Wetland,Shrubland
+9,7,1,0.09,2001-2002,Wetland,Grassland
+9,8,166,14.94,2001-2002,Wetland,Cropland
+9,9,2721,244.89,2001-2002,Wetland,Wetland
+9,12,1,0.09,2001-2002,Wetland,Bareland
+9,13,32,2.88,2001-2002,Wetland,Built-up
+9,15,486,43.739999999999995,2001-2002,Wetland,Water
+9,20,325,29.25,2001-2002,Wetland,Forest
+11,5,78,7.02,2001-2002,Lichens and mosses,Shrubland
+11,7,211,18.99,2001-2002,Lichens and mosses,Grassland
+11,8,231,20.79,2001-2002,Lichens and mosses,Cropland
+11,11,377,33.93,2001-2002,Lichens and mosses,Lichens and mosses
+11,13,88,7.92,2001-2002,Lichens and mosses,Built-up
+11,20,24,2.16,2001-2002,Lichens and mosses,Forest
+12,5,19,1.71,2001-2002,Bareland,Shrubland
+12,7,1,0.09,2001-2002,Bareland,Grassland
+12,8,48,4.32,2001-2002,Bareland,Cropland
+12,9,3,0.27,2001-2002,Bareland,Wetland
+12,12,151,13.59,2001-2002,Bareland,Bareland
+12,13,10,0.8999999999999999,2001-2002,Bareland,Built-up
+12,15,27,2.4299999999999997,2001-2002,Bareland,Water
+12,20,17,1.53,2001-2002,Bareland,Forest
+13,5,1113,100.17,2001-2002,Built-up,Shrubland
+13,7,662,59.58,2001-2002,Built-up,Grassland
+13,8,21488,1933.9199999999998,2001-2002,Built-up,Cropland
+13,9,5,0.44999999999999996,2001-2002,Built-up,Wetland
+13,11,109,9.81,2001-2002,Built-up,Lichens and mosses
+13,12,15,1.3499999999999999,2001-2002,Built-up,Bareland
+13,13,132542,11928.779999999999,2001-2002,Built-up,Built-up
+13,15,8,0.72,2001-2002,Built-up,Water
+13,20,558,50.22,2001-2002,Built-up,Forest
+15,5,3,0.27,2001-2002,Water,Shrubland
+15,8,65,5.85,2001-2002,Water,Cropland
+15,9,593,53.37,2001-2002,Water,Wetland
+15,11,1,0.09,2001-2002,Water,Lichens and mosses
+15,12,1,0.09,2001-2002,Water,Bareland
+15,13,12,1.08,2001-2002,Water,Built-up
+15,15,4838,435.41999999999996,2001-2002,Water,Water
+15,20,75,6.75,2001-2002,Water,Forest
+20,5,13794,1241.46,2001-2002,Forest,Shrubland
+20,7,23184,2086.56,2001-2002,Forest,Grassland
+20,8,65801,5922.09,2001-2002,Forest,Cropland
+20,9,157,14.129999999999999,2001-2002,Forest,Wetland
+20,11,28,2.52,2001-2002,Forest,Lichens and mosses
+20,12,45,4.05,2001-2002,Forest,Bareland
+20,13,636,57.239999999999995,2001-2002,Forest,Built-up
+20,15,100,9.0,2001-2002,Forest,Water
+20,20,2212084,199087.56,2001-2002,Forest,Forest
+5,5,19134,1722.06,2002-2003,Shrubland,Shrubland
+5,7,6365,572.85,2002-2003,Shrubland,Grassland
+5,8,12610,1134.8999999999999,2002-2003,Shrubland,Cropland
+5,9,51,4.59,2002-2003,Shrubland,Wetland
+5,11,69,6.21,2002-2003,Shrubland,Lichens and mosses
+5,12,32,2.88,2002-2003,Shrubland,Bareland
+5,13,1128,101.52,2002-2003,Shrubland,Built-up
+5,15,3,0.27,2002-2003,Shrubland,Water
+5,20,12188,1096.92,2002-2003,Shrubland,Forest
+7,5,3971,357.39,2002-2003,Grassland,Shrubland
+7,7,221996,19979.64,2002-2003,Grassland,Grassland
+7,8,48328,4349.5199999999995,2002-2003,Grassland,Cropland
+7,11,193,17.37,2002-2003,Grassland,Lichens and mosses
+7,12,1,0.09,2002-2003,Grassland,Bareland
+7,13,618,55.62,2002-2003,Grassland,Built-up
+7,20,20083,1807.47,2002-2003,Grassland,Forest
+8,5,5874,528.66,2002-2003,Cropland,Shrubland
+8,7,44412,3997.08,2002-2003,Cropland,Grassland
+8,8,1662230,149600.69999999998,2002-2003,Cropland,Cropland
+8,9,184,16.56,2002-2003,Cropland,Wetland
+8,11,215,19.349999999999998,2002-2003,Cropland,Lichens and mosses
+8,12,52,4.68,2002-2003,Cropland,Bareland
+8,13,23570,2121.2999999999997,2002-2003,Cropland,Built-up
+8,15,62,5.58,2002-2003,Cropland,Water
+8,20,56719,5104.71,2002-2003,Cropland,Forest
+9,5,14,1.26,2002-2003,Wetland,Shrubland
+9,8,43,3.8699999999999997,2002-2003,Wetland,Cropland
+9,9,2204,198.35999999999999,2002-2003,Wetland,Wetland
+9,12,5,0.44999999999999996,2002-2003,Wetland,Bareland
+9,13,25,2.25,2002-2003,Wetland,Built-up
+9,15,1195,107.55,2002-2003,Wetland,Water
+9,20,75,6.75,2002-2003,Wetland,Forest
+11,5,58,5.22,2002-2003,Lichens and mosses,Shrubland
+11,7,163,14.67,2002-2003,Lichens and mosses,Grassland
+11,8,172,15.479999999999999,2002-2003,Lichens and mosses,Cropland
+11,11,409,36.809999999999995,2002-2003,Lichens and mosses,Lichens and mosses
+11,13,109,9.81,2002-2003,Lichens and mosses,Built-up
+11,15,1,0.09,2002-2003,Lichens and mosses,Water
+11,20,28,2.52,2002-2003,Lichens and mosses,Forest
+12,5,14,1.26,2002-2003,Bareland,Shrubland
+12,7,3,0.27,2002-2003,Bareland,Grassland
+12,8,29,2.61,2002-2003,Bareland,Cropland
+12,9,1,0.09,2002-2003,Bareland,Wetland
+12,12,167,15.03,2002-2003,Bareland,Bareland
+12,13,17,1.53,2002-2003,Bareland,Built-up
+12,15,1,0.09,2002-2003,Bareland,Water
+12,20,37,3.33,2002-2003,Bareland,Forest
+13,5,622,55.98,2002-2003,Built-up,Shrubland
+13,7,729,65.61,2002-2003,Built-up,Grassland
+13,8,18070,1626.3,2002-2003,Built-up,Cropland
+13,9,9,0.8099999999999999,2002-2003,Built-up,Wetland
+13,11,139,12.51,2002-2003,Built-up,Lichens and mosses
+13,12,18,1.6199999999999999,2002-2003,Built-up,Bareland
+13,13,136843,12315.869999999999,2002-2003,Built-up,Built-up
+13,15,10,0.8999999999999999,2002-2003,Built-up,Water
+13,20,565,50.85,2002-2003,Built-up,Forest
+15,5,7,0.63,2002-2003,Water,Shrubland
+15,7,8,0.72,2002-2003,Water,Grassland
+15,8,89,8.01,2002-2003,Water,Cropland
+15,9,459,41.309999999999995,2002-2003,Water,Wetland
+15,12,27,2.4299999999999997,2002-2003,Water,Bareland
+15,13,8,0.72,2002-2003,Water,Built-up
+15,15,4887,439.83,2002-2003,Water,Water
+15,20,88,7.92,2002-2003,Water,Forest
+20,5,4225,380.25,2002-2003,Forest,Shrubland
+20,7,20364,1832.76,2002-2003,Forest,Grassland
+20,8,58667,5280.03,2002-2003,Forest,Cropland
+20,9,354,31.86,2002-2003,Forest,Wetland
+20,11,21,1.89,2002-2003,Forest,Lichens and mosses
+20,12,23,2.07,2002-2003,Forest,Bareland
+20,13,611,54.989999999999995,2002-2003,Forest,Built-up
+20,15,68,6.12,2002-2003,Forest,Water
+20,20,2212777,199149.93,2002-2003,Forest,Forest
+5,5,31353,2821.77,2003-2004,Shrubland,Shrubland
+5,7,478,43.019999999999996,2003-2004,Shrubland,Grassland
+5,8,1113,100.17,2003-2004,Shrubland,Cropland
+5,9,28,2.52,2003-2004,Shrubland,Wetland
+5,11,16,1.44,2003-2004,Shrubland,Lichens and mosses
+5,12,16,1.44,2003-2004,Shrubland,Bareland
+5,13,468,42.12,2003-2004,Shrubland,Built-up
+5,15,2,0.18,2003-2004,Shrubland,Water
+5,20,445,40.05,2003-2004,Shrubland,Forest
+7,5,461,41.49,2003-2004,Grassland,Shrubland
+7,7,284846,25636.14,2003-2004,Grassland,Grassland
+7,8,7221,649.89,2003-2004,Grassland,Cropland
+7,11,10,0.8999999999999999,2003-2004,Grassland,Lichens and mosses
+7,13,473,42.57,2003-2004,Grassland,Built-up
+7,20,1029,92.61,2003-2004,Grassland,Forest
+8,5,1031,92.78999999999999,2003-2004,Cropland,Shrubland
+8,7,3330,299.7,2003-2004,Cropland,Grassland
+8,8,1782249,160402.41,2003-2004,Cropland,Cropland
+8,9,40,3.5999999999999996,2003-2004,Cropland,Wetland
+8,11,7,0.63,2003-2004,Cropland,Lichens and mosses
+8,12,15,1.3499999999999999,2003-2004,Cropland,Bareland
+8,13,8411,756.99,2003-2004,Cropland,Built-up
+8,15,8,0.72,2003-2004,Cropland,Water
+8,20,5147,463.22999999999996,2003-2004,Cropland,Forest
+9,5,19,1.71,2003-2004,Wetland,Shrubland
+9,8,267,24.029999999999998,2003-2004,Wetland,Cropland
+9,9,2358,212.22,2003-2004,Wetland,Wetland
+9,12,5,0.44999999999999996,2003-2004,Wetland,Bareland
+9,13,1,0.09,2003-2004,Wetland,Built-up
+9,15,559,50.309999999999995,2003-2004,Wetland,Water
+9,20,53,4.77,2003-2004,Wetland,Forest
+11,5,14,1.26,2003-2004,Lichens and mosses,Shrubland
+11,7,30,2.6999999999999997,2003-2004,Lichens and mosses,Grassland
+11,8,44,3.96,2003-2004,Lichens and mosses,Cropland
+11,11,828,74.52,2003-2004,Lichens and mosses,Lichens and mosses
+11,12,1,0.09,2003-2004,Lichens and mosses,Bareland
+11,13,128,11.52,2003-2004,Lichens and mosses,Built-up
+11,20,1,0.09,2003-2004,Lichens and mosses,Forest
+12,5,4,0.36,2003-2004,Bareland,Shrubland
+12,7,1,0.09,2003-2004,Bareland,Grassland
+12,8,9,0.8099999999999999,2003-2004,Bareland,Cropland
+12,9,5,0.44999999999999996,2003-2004,Bareland,Wetland
+12,11,1,0.09,2003-2004,Bareland,Lichens and mosses
+12,12,280,25.2,2003-2004,Bareland,Bareland
+12,13,6,0.54,2003-2004,Bareland,Built-up
+12,15,11,0.99,2003-2004,Bareland,Water
+12,20,8,0.72,2003-2004,Bareland,Forest
+13,5,246,22.14,2003-2004,Built-up,Shrubland
+13,7,252,22.68,2003-2004,Built-up,Grassland
+13,8,10894,980.4599999999999,2003-2004,Built-up,Cropland
+13,9,27,2.4299999999999997,2003-2004,Built-up,Wetland
+13,11,51,4.59,2003-2004,Built-up,Lichens and mosses
+13,12,15,1.3499999999999999,2003-2004,Built-up,Bareland
+13,13,151212,13609.08,2003-2004,Built-up,Built-up
+13,15,1,0.09,2003-2004,Built-up,Water
+13,20,231,20.79,2003-2004,Built-up,Forest
+15,8,3,0.27,2003-2004,Water,Cropland
+15,9,20,1.7999999999999998,2003-2004,Water,Wetland
+15,12,5,0.44999999999999996,2003-2004,Water,Bareland
+15,13,1,0.09,2003-2004,Water,Built-up
+15,15,6194,557.4599999999999,2003-2004,Water,Water
+15,20,4,0.36,2003-2004,Water,Forest
+20,5,1091,98.19,2003-2004,Forest,Shrubland
+20,7,1719,154.71,2003-2004,Forest,Grassland
+20,8,8160,734.4,2003-2004,Forest,Cropland
+20,9,159,14.309999999999999,2003-2004,Forest,Wetland
+20,11,6,0.54,2003-2004,Forest,Lichens and mosses
+20,12,13,1.17,2003-2004,Forest,Bareland
+20,13,179,16.11,2003-2004,Forest,Built-up
+20,15,43,3.8699999999999997,2003-2004,Forest,Water
+20,20,2291190,206207.1,2003-2004,Forest,Forest
+5,5,31829,2864.6099999999997,2004-2005,Shrubland,Shrubland
+5,7,450,40.5,2004-2005,Shrubland,Grassland
+5,8,1134,102.06,2004-2005,Shrubland,Cropland
+5,9,11,0.99,2004-2005,Shrubland,Wetland
+5,11,46,4.14,2004-2005,Shrubland,Lichens and mosses
+5,12,4,0.36,2004-2005,Shrubland,Bareland
+5,13,265,23.849999999999998,2004-2005,Shrubland,Built-up
+5,15,3,0.27,2004-2005,Shrubland,Water
+5,20,477,42.93,2004-2005,Shrubland,Forest
+7,5,398,35.82,2004-2005,Grassland,Shrubland
+7,7,283824,25544.16,2004-2005,Grassland,Grassland
+7,8,5163,464.66999999999996,2004-2005,Grassland,Cropland
+7,11,23,2.07,2004-2005,Grassland,Lichens and mosses
+7,13,261,23.49,2004-2005,Grassland,Built-up
+7,15,2,0.18,2004-2005,Grassland,Water
+7,20,985,88.64999999999999,2004-2005,Grassland,Forest
+8,5,935,84.14999999999999,2004-2005,Cropland,Shrubland
+8,7,4731,425.78999999999996,2004-2005,Cropland,Grassland
+8,8,1789745,161077.05,2004-2005,Cropland,Cropland
+8,9,37,3.33,2004-2005,Cropland,Wetland
+8,11,51,4.59,2004-2005,Cropland,Lichens and mosses
+8,12,8,0.72,2004-2005,Cropland,Bareland
+8,13,9982,898.38,2004-2005,Cropland,Built-up
+8,15,86,7.739999999999999,2004-2005,Cropland,Water
+8,20,4385,394.65,2004-2005,Cropland,Forest
+9,5,28,2.52,2004-2005,Wetland,Shrubland
+9,8,172,15.479999999999999,2004-2005,Wetland,Cropland
+9,9,1910,171.9,2004-2005,Wetland,Wetland
+9,12,4,0.36,2004-2005,Wetland,Bareland
+9,15,418,37.62,2004-2005,Wetland,Water
+9,20,105,9.45,2004-2005,Wetland,Forest
+11,5,14,1.26,2004-2005,Lichens and mosses,Shrubland
+11,7,20,1.7999999999999998,2004-2005,Lichens and mosses,Grassland
+11,8,33,2.9699999999999998,2004-2005,Lichens and mosses,Cropland
+11,11,800,72.0,2004-2005,Lichens and mosses,Lichens and mosses
+11,13,50,4.5,2004-2005,Lichens and mosses,Built-up
+11,20,2,0.18,2004-2005,Lichens and mosses,Forest
+12,5,12,1.08,2004-2005,Bareland,Shrubland
+12,7,2,0.18,2004-2005,Bareland,Grassland
+12,8,8,0.72,2004-2005,Bareland,Cropland
+12,9,3,0.27,2004-2005,Bareland,Wetland
+12,12,303,27.27,2004-2005,Bareland,Bareland
+12,13,13,1.17,2004-2005,Bareland,Built-up
+12,15,3,0.27,2004-2005,Bareland,Water
+12,20,6,0.54,2004-2005,Bareland,Forest
+13,5,295,26.55,2004-2005,Built-up,Shrubland
+13,7,339,30.509999999999998,2004-2005,Built-up,Grassland
+13,8,8714,784.26,2004-2005,Built-up,Cropland
+13,9,4,0.36,2004-2005,Built-up,Wetland
+13,11,66,5.9399999999999995,2004-2005,Built-up,Lichens and mosses
+13,12,5,0.44999999999999996,2004-2005,Built-up,Bareland
+13,13,151321,13618.89,2004-2005,Built-up,Built-up
+13,15,1,0.09,2004-2005,Built-up,Water
+13,20,134,12.059999999999999,2004-2005,Built-up,Forest
+15,8,6,0.54,2004-2005,Water,Cropland
+15,9,48,4.32,2004-2005,Water,Wetland
+15,12,5,0.44999999999999996,2004-2005,Water,Bareland
+15,13,3,0.27,2004-2005,Water,Built-up
+15,15,6745,607.05,2004-2005,Water,Water
+15,20,11,0.99,2004-2005,Water,Forest
+20,5,721,64.89,2004-2005,Forest,Shrubland
+20,7,1427,128.43,2004-2005,Forest,Grassland
+20,8,7316,658.4399999999999,2004-2005,Forest,Cropland
+20,9,70,6.3,2004-2005,Forest,Wetland
+20,11,3,0.27,2004-2005,Forest,Lichens and mosses
+20,12,10,0.8999999999999999,2004-2005,Forest,Bareland
+20,13,208,18.72,2004-2005,Forest,Built-up
+20,15,146,13.139999999999999,2004-2005,Forest,Water
+20,20,2288207,205938.63,2004-2005,Forest,Forest
+5,5,32138,2892.42,2005-2006,Shrubland,Shrubland
+5,7,378,34.019999999999996,2005-2006,Shrubland,Grassland
+5,8,837,75.33,2005-2006,Shrubland,Cropland
+5,9,21,1.89,2005-2006,Shrubland,Wetland
+5,11,20,1.7999999999999998,2005-2006,Shrubland,Lichens and mosses
+5,12,6,0.54,2005-2006,Shrubland,Bareland
+5,13,374,33.66,2005-2006,Shrubland,Built-up
+5,20,458,41.22,2005-2006,Shrubland,Forest
+7,5,386,34.74,2005-2006,Grassland,Shrubland
+7,7,285113,25660.17,2005-2006,Grassland,Grassland
+7,8,4084,367.56,2005-2006,Grassland,Cropland
+7,9,1,0.09,2005-2006,Grassland,Wetland
+7,11,23,2.07,2005-2006,Grassland,Lichens and mosses
+7,12,1,0.09,2005-2006,Grassland,Bareland
+7,13,267,24.029999999999998,2005-2006,Grassland,Built-up
+7,20,918,82.61999999999999,2005-2006,Grassland,Forest
+8,5,1319,118.71,2005-2006,Cropland,Shrubland
+8,7,5282,475.38,2005-2006,Cropland,Grassland
+8,8,1788344,160950.96,2005-2006,Cropland,Cropland
+8,9,68,6.12,2005-2006,Cropland,Wetland
+8,11,31,2.79,2005-2006,Cropland,Lichens and mosses
+8,12,13,1.17,2005-2006,Cropland,Bareland
+8,13,11250,1012.5,2005-2006,Cropland,Built-up
+8,15,1,0.09,2005-2006,Cropland,Water
+8,20,5983,538.47,2005-2006,Cropland,Forest
+9,5,14,1.26,2005-2006,Wetland,Shrubland
+9,8,69,6.21,2005-2006,Wetland,Cropland
+9,9,1902,171.18,2005-2006,Wetland,Wetland
+9,12,1,0.09,2005-2006,Wetland,Bareland
+9,13,1,0.09,2005-2006,Wetland,Built-up
+9,15,44,3.96,2005-2006,Wetland,Water
+9,20,52,4.68,2005-2006,Wetland,Forest
+11,5,33,2.9699999999999998,2005-2006,Lichens and mosses,Shrubland
+11,7,37,3.33,2005-2006,Lichens and mosses,Grassland
+11,8,41,3.69,2005-2006,Lichens and mosses,Cropland
+11,11,813,73.17,2005-2006,Lichens and mosses,Lichens and mosses
+11,13,57,5.13,2005-2006,Lichens and mosses,Built-up
+11,20,8,0.72,2005-2006,Lichens and mosses,Forest
+12,5,9,0.8099999999999999,2005-2006,Bareland,Shrubland
+12,8,13,1.17,2005-2006,Bareland,Cropland
+12,9,3,0.27,2005-2006,Bareland,Wetland
+12,11,2,0.18,2005-2006,Bareland,Lichens and mosses
+12,12,305,27.45,2005-2006,Bareland,Bareland
+12,13,1,0.09,2005-2006,Bareland,Built-up
+12,15,2,0.18,2005-2006,Bareland,Water
+12,20,4,0.36,2005-2006,Bareland,Forest
+13,5,295,26.55,2005-2006,Built-up,Shrubland
+13,7,356,32.04,2005-2006,Built-up,Grassland
+13,8,6948,625.3199999999999,2005-2006,Built-up,Cropland
+13,11,60,5.3999999999999995,2005-2006,Built-up,Lichens and mosses
+13,12,16,1.44,2005-2006,Built-up,Bareland
+13,13,154247,13882.23,2005-2006,Built-up,Built-up
+13,15,4,0.36,2005-2006,Built-up,Water
+13,20,177,15.93,2005-2006,Built-up,Forest
+15,5,9,0.8099999999999999,2005-2006,Water,Shrubland
+15,7,2,0.18,2005-2006,Water,Grassland
+15,8,83,7.47,2005-2006,Water,Cropland
+15,9,577,51.93,2005-2006,Water,Wetland
+15,12,12,1.08,2005-2006,Water,Bareland
+15,13,2,0.18,2005-2006,Water,Built-up
+15,15,6539,588.51,2005-2006,Water,Water
+15,20,180,16.2,2005-2006,Water,Forest
+20,5,1220,109.8,2005-2006,Forest,Shrubland
+20,7,1427,128.43,2005-2006,Forest,Grassland
+20,8,6750,607.5,2005-2006,Forest,Cropland
+20,9,107,9.629999999999999,2005-2006,Forest,Wetland
+20,11,1,0.09,2005-2006,Forest,Lichens and mosses
+20,12,10,0.8999999999999999,2005-2006,Forest,Bareland
+20,13,152,13.68,2005-2006,Forest,Built-up
+20,15,1,0.09,2005-2006,Forest,Water
+20,20,2284644,205617.96,2005-2006,Forest,Forest
+5,5,33472,3012.48,2006-2007,Shrubland,Shrubland
+5,7,286,25.74,2006-2007,Shrubland,Grassland
+5,8,720,64.8,2006-2007,Shrubland,Cropland
+5,9,20,1.7999999999999998,2006-2007,Shrubland,Wetland
+5,11,6,0.54,2006-2007,Shrubland,Lichens and mosses
+5,12,11,0.99,2006-2007,Shrubland,Bareland
+5,13,250,22.5,2006-2007,Shrubland,Built-up
+5,20,658,59.22,2006-2007,Shrubland,Forest
+7,5,544,48.96,2006-2007,Grassland,Shrubland
+7,7,287298,25856.82,2006-2007,Grassland,Grassland
+7,8,3108,279.71999999999997,2006-2007,Grassland,Cropland
+7,11,25,2.25,2006-2007,Grassland,Lichens and mosses
+7,12,1,0.09,2006-2007,Grassland,Bareland
+7,13,213,19.169999999999998,2006-2007,Grassland,Built-up
+7,20,1406,126.53999999999999,2006-2007,Grassland,Forest
+8,5,1475,132.75,2006-2007,Cropland,Shrubland
+8,7,5200,468.0,2006-2007,Cropland,Grassland
+8,8,1785486,160693.74,2006-2007,Cropland,Cropland
+8,9,340,30.599999999999998,2006-2007,Cropland,Wetland
+8,11,48,4.32,2006-2007,Cropland,Lichens and mosses
+8,12,11,0.99,2006-2007,Cropland,Bareland
+8,13,9372,843.48,2006-2007,Cropland,Built-up
+8,15,8,0.72,2006-2007,Cropland,Water
+8,20,5229,470.60999999999996,2006-2007,Cropland,Forest
+9,5,26,2.34,2006-2007,Wetland,Shrubland
+9,7,1,0.09,2006-2007,Wetland,Grassland
+9,8,35,3.15,2006-2007,Wetland,Cropland
+9,9,2448,220.32,2006-2007,Wetland,Wetland
+9,12,4,0.36,2006-2007,Wetland,Bareland
+9,13,3,0.27,2006-2007,Wetland,Built-up
+9,15,66,5.9399999999999995,2006-2007,Wetland,Water
+9,20,96,8.64,2006-2007,Wetland,Forest
+11,5,30,2.6999999999999997,2006-2007,Lichens and mosses,Shrubland
+11,7,19,1.71,2006-2007,Lichens and mosses,Grassland
+11,8,30,2.6999999999999997,2006-2007,Lichens and mosses,Cropland
+11,11,820,73.8,2006-2007,Lichens and mosses,Lichens and mosses
+11,12,3,0.27,2006-2007,Lichens and mosses,Bareland
+11,13,44,3.96,2006-2007,Lichens and mosses,Built-up
+11,20,4,0.36,2006-2007,Lichens and mosses,Forest
+12,5,8,0.72,2006-2007,Bareland,Shrubland
+12,7,1,0.09,2006-2007,Bareland,Grassland
+12,8,13,1.17,2006-2007,Bareland,Cropland
+12,9,4,0.36,2006-2007,Bareland,Wetland
+12,12,303,27.27,2006-2007,Bareland,Bareland
+12,13,24,2.16,2006-2007,Bareland,Built-up
+12,15,1,0.09,2006-2007,Bareland,Water
+12,20,10,0.8999999999999999,2006-2007,Bareland,Forest
+13,5,500,45.0,2006-2007,Built-up,Shrubland
+13,7,350,31.5,2006-2007,Built-up,Grassland
+13,8,7289,656.01,2006-2007,Built-up,Cropland
+13,9,1,0.09,2006-2007,Built-up,Wetland
+13,11,99,8.91,2006-2007,Built-up,Lichens and mosses
+13,12,2,0.18,2006-2007,Built-up,Bareland
+13,13,157951,14215.59,2006-2007,Built-up,Built-up
+13,15,1,0.09,2006-2007,Built-up,Water
+13,20,158,14.219999999999999,2006-2007,Built-up,Forest
+15,9,107,9.629999999999999,2006-2007,Water,Wetland
+15,13,1,0.09,2006-2007,Water,Built-up
+15,15,6477,582.93,2006-2007,Water,Water
+15,20,6,0.54,2006-2007,Water,Forest
+20,5,952,85.67999999999999,2006-2007,Forest,Shrubland
+20,7,947,85.22999999999999,2006-2007,Forest,Grassland
+20,8,4540,408.59999999999997,2006-2007,Forest,Cropland
+20,9,76,6.84,2006-2007,Forest,Wetland
+20,11,6,0.54,2006-2007,Forest,Lichens and mosses
+20,12,8,0.72,2006-2007,Forest,Bareland
+20,13,220,19.8,2006-2007,Forest,Built-up
+20,15,8,0.72,2006-2007,Forest,Water
+20,20,2285667,205710.03,2006-2007,Forest,Forest
+5,5,34767,3129.0299999999997,2007-2008,Shrubland,Shrubland
+5,7,329,29.61,2007-2008,Shrubland,Grassland
+5,8,867,78.03,2007-2008,Shrubland,Cropland
+5,9,15,1.3499999999999999,2007-2008,Shrubland,Wetland
+5,11,40,3.5999999999999996,2007-2008,Shrubland,Lichens and mosses
+5,12,6,0.54,2007-2008,Shrubland,Bareland
+5,13,472,42.48,2007-2008,Shrubland,Built-up
+5,20,511,45.989999999999995,2007-2008,Shrubland,Forest
+7,5,933,83.97,2007-2008,Grassland,Shrubland
+7,7,285623,25706.07,2007-2008,Grassland,Grassland
+7,8,5285,475.65,2007-2008,Grassland,Cropland
+7,11,50,4.5,2007-2008,Grassland,Lichens and mosses
+7,12,3,0.27,2007-2008,Grassland,Bareland
+7,13,483,43.47,2007-2008,Grassland,Built-up
+7,20,1725,155.25,2007-2008,Grassland,Forest
+8,5,2678,241.01999999999998,2007-2008,Cropland,Shrubland
+8,7,4642,417.78,2007-2008,Cropland,Grassland
+8,8,1778363,160052.66999999998,2007-2008,Cropland,Cropland
+8,9,43,3.8699999999999997,2007-2008,Cropland,Wetland
+8,11,84,7.56,2007-2008,Cropland,Lichens and mosses
+8,12,7,0.63,2007-2008,Cropland,Bareland
+8,13,10297,926.73,2007-2008,Cropland,Built-up
+8,15,10,0.8999999999999999,2007-2008,Cropland,Water
+8,20,5097,458.72999999999996,2007-2008,Cropland,Forest
+9,5,12,1.08,2007-2008,Wetland,Shrubland
+9,7,1,0.09,2007-2008,Wetland,Grassland
+9,8,33,2.9699999999999998,2007-2008,Wetland,Cropland
+9,9,2594,233.45999999999998,2007-2008,Wetland,Wetland
+9,12,7,0.63,2007-2008,Wetland,Bareland
+9,13,2,0.18,2007-2008,Wetland,Built-up
+9,15,147,13.229999999999999,2007-2008,Wetland,Water
+9,20,200,18.0,2007-2008,Wetland,Forest
+11,5,41,3.69,2007-2008,Lichens and mosses,Shrubland
+11,7,6,0.54,2007-2008,Lichens and mosses,Grassland
+11,8,20,1.7999999999999998,2007-2008,Lichens and mosses,Cropland
+11,11,819,73.71,2007-2008,Lichens and mosses,Lichens and mosses
+11,13,116,10.44,2007-2008,Lichens and mosses,Built-up
+11,20,2,0.18,2007-2008,Lichens and mosses,Forest
+12,5,8,0.72,2007-2008,Bareland,Shrubland
+12,8,11,0.99,2007-2008,Bareland,Cropland
+12,9,4,0.36,2007-2008,Bareland,Wetland
+12,12,306,27.54,2007-2008,Bareland,Bareland
+12,13,7,0.63,2007-2008,Bareland,Built-up
+12,15,4,0.36,2007-2008,Bareland,Water
+12,20,3,0.27,2007-2008,Bareland,Forest
+13,5,406,36.54,2007-2008,Built-up,Shrubland
+13,7,237,21.33,2007-2008,Built-up,Grassland
+13,8,6080,547.1999999999999,2007-2008,Built-up,Cropland
+13,9,8,0.72,2007-2008,Built-up,Wetland
+13,11,41,3.69,2007-2008,Built-up,Lichens and mosses
+13,12,2,0.18,2007-2008,Built-up,Bareland
+13,13,161093,14498.369999999999,2007-2008,Built-up,Built-up
+13,15,3,0.27,2007-2008,Built-up,Water
+13,20,208,18.72,2007-2008,Built-up,Forest
+15,5,2,0.18,2007-2008,Water,Shrubland
+15,8,2,0.18,2007-2008,Water,Cropland
+15,9,40,3.5999999999999996,2007-2008,Water,Wetland
+15,12,3,0.27,2007-2008,Water,Bareland
+15,13,6,0.54,2007-2008,Water,Built-up
+15,15,6506,585.54,2007-2008,Water,Water
+15,20,2,0.18,2007-2008,Water,Forest
+20,5,1997,179.73,2007-2008,Forest,Shrubland
+20,7,1248,112.32,2007-2008,Forest,Grassland
+20,8,5575,501.75,2007-2008,Forest,Cropland
+20,9,71,6.39,2007-2008,Forest,Wetland
+20,11,8,0.72,2007-2008,Forest,Lichens and mosses
+20,12,2,0.18,2007-2008,Forest,Bareland
+20,13,144,12.959999999999999,2007-2008,Forest,Built-up
+20,15,24,2.16,2007-2008,Forest,Water
+20,20,2284165,205574.85,2007-2008,Forest,Forest
+5,5,36768,3309.12,2008-2009,Shrubland,Shrubland
+5,7,450,40.5,2008-2009,Shrubland,Grassland
+5,8,1739,156.51,2008-2009,Shrubland,Cropland
+5,9,30,2.6999999999999997,2008-2009,Shrubland,Wetland
+5,11,74,6.66,2008-2009,Shrubland,Lichens and mosses
+5,13,507,45.629999999999995,2008-2009,Shrubland,Built-up
+5,15,14,1.26,2008-2009,Shrubland,Water
+5,20,1262,113.58,2008-2009,Shrubland,Forest
+7,5,633,56.97,2008-2009,Grassland,Shrubland
+7,7,282968,25467.12,2008-2009,Grassland,Grassland
+7,8,6572,591.48,2008-2009,Grassland,Cropland
+7,9,1,0.09,2008-2009,Grassland,Wetland
+7,11,20,1.7999999999999998,2008-2009,Grassland,Lichens and mosses
+7,13,295,26.55,2008-2009,Grassland,Built-up
+7,15,2,0.18,2008-2009,Grassland,Water
+7,20,1595,143.54999999999998,2008-2009,Grassland,Forest
+8,5,1726,155.34,2008-2009,Cropland,Shrubland
+8,7,4181,376.28999999999996,2008-2009,Cropland,Grassland
+8,8,1776746,159907.13999999998,2008-2009,Cropland,Cropland
+8,9,68,6.12,2008-2009,Cropland,Wetland
+8,11,62,5.58,2008-2009,Cropland,Lichens and mosses
+8,12,8,0.72,2008-2009,Cropland,Bareland
+8,13,6854,616.86,2008-2009,Cropland,Built-up
+8,15,118,10.62,2008-2009,Cropland,Water
+8,20,6473,582.5699999999999,2008-2009,Cropland,Forest
+9,5,1,0.09,2008-2009,Wetland,Shrubland
+9,8,13,1.17,2008-2009,Wetland,Cropland
+9,9,2089,188.01,2008-2009,Wetland,Wetland
+9,13,3,0.27,2008-2009,Wetland,Built-up
+9,15,584,52.559999999999995,2008-2009,Wetland,Water
+9,20,85,7.6499999999999995,2008-2009,Wetland,Forest
+11,5,31,2.79,2008-2009,Lichens and mosses,Shrubland
+11,7,32,2.88,2008-2009,Lichens and mosses,Grassland
+11,8,73,6.569999999999999,2008-2009,Lichens and mosses,Cropland
+11,11,835,75.14999999999999,2008-2009,Lichens and mosses,Lichens and mosses
+11,13,67,6.029999999999999,2008-2009,Lichens and mosses,Built-up
+11,20,4,0.36,2008-2009,Lichens and mosses,Forest
+12,5,14,1.26,2008-2009,Bareland,Shrubland
+12,8,10,0.8999999999999999,2008-2009,Bareland,Cropland
+12,9,7,0.63,2008-2009,Bareland,Wetland
+12,11,1,0.09,2008-2009,Bareland,Lichens and mosses
+12,12,294,26.459999999999997,2008-2009,Bareland,Bareland
+12,13,3,0.27,2008-2009,Bareland,Built-up
+12,15,5,0.44999999999999996,2008-2009,Bareland,Water
+12,20,2,0.18,2008-2009,Bareland,Forest
+13,5,783,70.47,2008-2009,Built-up,Shrubland
+13,7,327,29.43,2008-2009,Built-up,Grassland
+13,8,9040,813.6,2008-2009,Built-up,Cropland
+13,9,3,0.27,2008-2009,Built-up,Wetland
+13,11,68,6.12,2008-2009,Built-up,Lichens and mosses
+13,12,1,0.09,2008-2009,Built-up,Bareland
+13,13,162187,14596.83,2008-2009,Built-up,Built-up
+13,15,3,0.27,2008-2009,Built-up,Water
+13,20,208,18.72,2008-2009,Built-up,Forest
+15,8,1,0.09,2008-2009,Water,Cropland
+15,9,65,5.85,2008-2009,Water,Wetland
+15,12,4,0.36,2008-2009,Water,Bareland
+15,13,4,0.36,2008-2009,Water,Built-up
+15,15,6614,595.26,2008-2009,Water,Water
+15,20,6,0.54,2008-2009,Water,Forest
+20,5,1551,139.59,2008-2009,Forest,Shrubland
+20,7,1606,144.54,2008-2009,Forest,Grassland
+20,8,7592,683.28,2008-2009,Forest,Cropland
+20,9,242,21.779999999999998,2008-2009,Forest,Wetland
+20,11,4,0.36,2008-2009,Forest,Lichens and mosses
+20,12,8,0.72,2008-2009,Forest,Bareland
+20,13,188,16.919999999999998,2008-2009,Forest,Built-up
+20,15,412,37.08,2008-2009,Forest,Water
+20,20,2280310,205227.9,2008-2009,Forest,Forest
+5,5,37733,3395.97,2009-2010,Shrubland,Shrubland
+5,7,658,59.22,2009-2010,Shrubland,Grassland
+5,8,1396,125.64,2009-2010,Shrubland,Cropland
+5,9,5,0.44999999999999996,2009-2010,Shrubland,Wetland
+5,11,88,7.92,2009-2010,Shrubland,Lichens and mosses
+5,12,15,1.3499999999999999,2009-2010,Shrubland,Bareland
+5,13,769,69.21,2009-2010,Shrubland,Built-up
+5,20,843,75.86999999999999,2009-2010,Shrubland,Forest
+7,5,548,49.32,2009-2010,Grassland,Shrubland
+7,7,282689,25442.01,2009-2010,Grassland,Grassland
+7,8,4946,445.14,2009-2010,Grassland,Cropland
+7,11,31,2.79,2009-2010,Grassland,Lichens and mosses
+7,13,301,27.09,2009-2010,Grassland,Built-up
+7,20,1049,94.41,2009-2010,Grassland,Forest
+8,5,2134,192.06,2009-2010,Cropland,Shrubland
+8,7,6216,559.4399999999999,2009-2010,Cropland,Grassland
+8,8,1780542,160248.78,2009-2010,Cropland,Cropland
+8,9,15,1.3499999999999999,2009-2010,Cropland,Wetland
+8,11,154,13.86,2009-2010,Cropland,Lichens and mosses
+8,12,7,0.63,2009-2010,Cropland,Bareland
+8,13,7185,646.65,2009-2010,Cropland,Built-up
+8,15,1,0.09,2009-2010,Cropland,Water
+8,20,5532,497.88,2009-2010,Cropland,Forest
+9,5,58,5.22,2009-2010,Wetland,Shrubland
+9,8,65,5.85,2009-2010,Wetland,Cropland
+9,9,1831,164.79,2009-2010,Wetland,Wetland
+9,12,26,2.34,2009-2010,Wetland,Bareland
+9,13,5,0.44999999999999996,2009-2010,Wetland,Built-up
+9,15,132,11.879999999999999,2009-2010,Wetland,Water
+9,20,388,34.92,2009-2010,Wetland,Forest
+11,5,27,2.4299999999999997,2009-2010,Lichens and mosses,Shrubland
+11,7,13,1.17,2009-2010,Lichens and mosses,Grassland
+11,8,56,5.04,2009-2010,Lichens and mosses,Cropland
+11,11,874,78.66,2009-2010,Lichens and mosses,Lichens and mosses
+11,13,80,7.199999999999999,2009-2010,Lichens and mosses,Built-up
+11,20,14,1.26,2009-2010,Lichens and mosses,Forest
+12,5,3,0.27,2009-2010,Bareland,Shrubland
+12,8,6,0.54,2009-2010,Bareland,Cropland
+12,9,1,0.09,2009-2010,Bareland,Wetland
+12,11,2,0.18,2009-2010,Bareland,Lichens and mosses
+12,12,295,26.55,2009-2010,Bareland,Bareland
+12,13,4,0.36,2009-2010,Bareland,Built-up
+12,20,4,0.36,2009-2010,Bareland,Forest
+13,5,331,29.79,2009-2010,Built-up,Shrubland
+13,7,192,17.28,2009-2010,Built-up,Grassland
+13,8,8034,723.06,2009-2010,Built-up,Cropland
+13,9,4,0.36,2009-2010,Built-up,Wetland
+13,11,36,3.2399999999999998,2009-2010,Built-up,Lichens and mosses
+13,12,16,1.44,2009-2010,Built-up,Bareland
+13,13,161326,14519.34,2009-2010,Built-up,Built-up
+13,20,169,15.209999999999999,2009-2010,Built-up,Forest
+15,5,2,0.18,2009-2010,Water,Shrubland
+15,8,269,24.21,2009-2010,Water,Cropland
+15,9,1515,136.35,2009-2010,Water,Wetland
+15,12,6,0.54,2009-2010,Water,Bareland
+15,13,2,0.18,2009-2010,Water,Built-up
+15,15,5642,507.78,2009-2010,Water,Water
+15,20,316,28.439999999999998,2009-2010,Water,Forest
+20,5,1757,158.13,2009-2010,Forest,Shrubland
+20,7,2389,215.01,2009-2010,Forest,Grassland
+20,8,9060,815.4,2009-2010,Forest,Cropland
+20,9,54,4.859999999999999,2009-2010,Forest,Wetland
+20,11,11,0.99,2009-2010,Forest,Lichens and mosses
+20,12,6,0.54,2009-2010,Forest,Bareland
+20,13,168,15.12,2009-2010,Forest,Built-up
+20,15,4,0.36,2009-2010,Forest,Water
+20,20,2276496,204884.63999999998,2009-2010,Forest,Forest
+5,5,39437,3549.33,2010-2011,Shrubland,Shrubland
+5,7,594,53.46,2010-2011,Shrubland,Grassland
+5,8,1143,102.86999999999999,2010-2011,Shrubland,Cropland
+5,9,46,4.14,2010-2011,Shrubland,Wetland
+5,11,47,4.2299999999999995,2010-2011,Shrubland,Lichens and mosses
+5,12,10,0.8999999999999999,2010-2011,Shrubland,Bareland
+5,13,440,39.6,2010-2011,Shrubland,Built-up
+5,20,876,78.84,2010-2011,Shrubland,Forest
+7,5,348,31.32,2010-2011,Grassland,Shrubland
+7,7,287067,25836.03,2010-2011,Grassland,Grassland
+7,8,3549,319.40999999999997,2010-2011,Grassland,Cropland
+7,11,62,5.58,2010-2011,Grassland,Lichens and mosses
+7,13,308,27.72,2010-2011,Grassland,Built-up
+7,20,823,74.07,2010-2011,Grassland,Forest
+8,5,1048,94.32,2010-2011,Cropland,Shrubland
+8,7,3307,297.63,2010-2011,Cropland,Grassland
+8,8,1789229,161030.61,2010-2011,Cropland,Cropland
+8,9,46,4.14,2010-2011,Cropland,Wetland
+8,11,98,8.82,2010-2011,Cropland,Lichens and mosses
+8,12,14,1.26,2010-2011,Cropland,Bareland
+8,13,7692,692.28,2010-2011,Cropland,Built-up
+8,20,2940,264.59999999999997,2010-2011,Cropland,Forest
+9,5,26,2.34,2010-2011,Wetland,Shrubland
+9,8,50,4.5,2010-2011,Wetland,Cropland
+9,9,3144,282.96,2010-2011,Wetland,Wetland
+9,12,5,0.44999999999999996,2010-2011,Wetland,Bareland
+9,13,2,0.18,2010-2011,Wetland,Built-up
+9,15,24,2.16,2010-2011,Wetland,Water
+9,20,174,15.66,2010-2011,Wetland,Forest
+11,5,39,3.51,2010-2011,Lichens and mosses,Shrubland
+11,7,56,5.04,2010-2011,Lichens and mosses,Grassland
+11,8,41,3.69,2010-2011,Lichens and mosses,Cropland
+11,11,970,87.3,2010-2011,Lichens and mosses,Lichens and mosses
+11,12,1,0.09,2010-2011,Lichens and mosses,Bareland
+11,13,68,6.12,2010-2011,Lichens and mosses,Built-up
+11,20,21,1.89,2010-2011,Lichens and mosses,Forest
+12,5,3,0.27,2010-2011,Bareland,Shrubland
+12,8,12,1.08,2010-2011,Bareland,Cropland
+12,9,18,1.6199999999999999,2010-2011,Bareland,Wetland
+12,11,4,0.36,2010-2011,Bareland,Lichens and mosses
+12,12,318,28.619999999999997,2010-2011,Bareland,Bareland
+12,13,6,0.54,2010-2011,Bareland,Built-up
+12,15,2,0.18,2010-2011,Bareland,Water
+12,20,8,0.72,2010-2011,Bareland,Forest
+13,5,367,33.03,2010-2011,Built-up,Shrubland
+13,7,307,27.63,2010-2011,Built-up,Grassland
+13,8,7551,679.5899999999999,2010-2011,Built-up,Cropland
+13,9,6,0.54,2010-2011,Built-up,Wetland
+13,11,81,7.29,2010-2011,Built-up,Lichens and mosses
+13,12,6,0.54,2010-2011,Built-up,Bareland
+13,13,161351,14521.59,2010-2011,Built-up,Built-up
+13,15,2,0.18,2010-2011,Built-up,Water
+13,20,169,15.209999999999999,2010-2011,Built-up,Forest
+15,7,1,0.09,2010-2011,Water,Grassland
+15,8,24,2.16,2010-2011,Water,Cropland
+15,9,438,39.42,2010-2011,Water,Wetland
+15,12,2,0.18,2010-2011,Water,Bareland
+15,15,5297,476.72999999999996,2010-2011,Water,Water
+15,20,17,1.53,2010-2011,Water,Forest
+20,5,1221,109.89,2010-2011,Forest,Shrubland
+20,7,1288,115.92,2010-2011,Forest,Grassland
+20,8,6000,540.0,2010-2011,Forest,Cropland
+20,9,282,25.38,2010-2011,Forest,Wetland
+20,11,10,0.8999999999999999,2010-2011,Forest,Lichens and mosses
+20,12,3,0.27,2010-2011,Forest,Bareland
+20,13,174,15.66,2010-2011,Forest,Built-up
+20,15,2,0.18,2010-2011,Forest,Water
+20,20,2275831,204824.78999999998,2010-2011,Forest,Forest
+5,5,37354,3361.8599999999997,2011-2012,Shrubland,Shrubland
+5,7,807,72.63,2011-2012,Shrubland,Grassland
+5,8,2484,223.56,2011-2012,Shrubland,Cropland
+5,9,38,3.42,2011-2012,Shrubland,Wetland
+5,11,33,2.9699999999999998,2011-2012,Shrubland,Lichens and mosses
+5,12,4,0.36,2011-2012,Shrubland,Bareland
+5,13,388,34.92,2011-2012,Shrubland,Built-up
+5,20,1381,124.28999999999999,2011-2012,Shrubland,Forest
+7,5,488,43.92,2011-2012,Grassland,Shrubland
+7,7,282369,25413.21,2011-2012,Grassland,Grassland
+7,8,7637,687.3299999999999,2011-2012,Grassland,Cropland
+7,9,1,0.09,2011-2012,Grassland,Wetland
+7,11,21,1.89,2011-2012,Grassland,Lichens and mosses
+7,13,353,31.77,2011-2012,Grassland,Built-up
+7,20,1751,157.59,2011-2012,Grassland,Forest
+8,5,1260,113.39999999999999,2011-2012,Cropland,Shrubland
+8,7,5868,528.12,2011-2012,Cropland,Grassland
+8,8,1787250,160852.5,2011-2012,Cropland,Cropland
+8,9,62,5.58,2011-2012,Cropland,Wetland
+8,11,44,3.96,2011-2012,Cropland,Lichens and mosses
+8,12,4,0.36,2011-2012,Cropland,Bareland
+8,13,8570,771.3,2011-2012,Cropland,Built-up
+8,15,1,0.09,2011-2012,Cropland,Water
+8,20,4540,408.59999999999997,2011-2012,Cropland,Forest
+9,5,23,2.07,2011-2012,Wetland,Shrubland
+9,8,155,13.95,2011-2012,Wetland,Cropland
+9,9,3692,332.28,2011-2012,Wetland,Wetland
+9,13,9,0.8099999999999999,2011-2012,Wetland,Built-up
+9,15,49,4.41,2011-2012,Wetland,Water
+9,20,52,4.68,2011-2012,Wetland,Forest
+11,5,45,4.05,2011-2012,Lichens and mosses,Shrubland
+11,7,83,7.47,2011-2012,Lichens and mosses,Grassland
+11,8,116,10.44,2011-2012,Lichens and mosses,Cropland
+11,9,1,0.09,2011-2012,Lichens and mosses,Wetland
+11,11,950,85.5,2011-2012,Lichens and mosses,Lichens and mosses
+11,13,66,5.9399999999999995,2011-2012,Lichens and mosses,Built-up
+11,20,11,0.99,2011-2012,Lichens and mosses,Forest
+12,5,33,2.9699999999999998,2011-2012,Bareland,Shrubland
+12,8,12,1.08,2011-2012,Bareland,Cropland
+12,9,15,1.3499999999999999,2011-2012,Bareland,Wetland
+12,12,286,25.74,2011-2012,Bareland,Bareland
+12,13,5,0.44999999999999996,2011-2012,Bareland,Built-up
+12,15,4,0.36,2011-2012,Bareland,Water
+12,20,4,0.36,2011-2012,Bareland,Forest
+13,5,739,66.50999999999999,2011-2012,Built-up,Shrubland
+13,7,363,32.67,2011-2012,Built-up,Grassland
+13,8,9525,857.25,2011-2012,Built-up,Cropland
+13,9,7,0.63,2011-2012,Built-up,Wetland
+13,11,62,5.58,2011-2012,Built-up,Lichens and mosses
+13,12,35,3.15,2011-2012,Built-up,Bareland
+13,13,159085,14317.65,2011-2012,Built-up,Built-up
+13,20,225,20.25,2011-2012,Built-up,Forest
+15,8,6,0.54,2011-2012,Water,Cropland
+15,9,26,2.34,2011-2012,Water,Wetland
+15,15,5291,476.19,2011-2012,Water,Water
+15,20,4,0.36,2011-2012,Water,Forest
+20,5,1075,96.75,2011-2012,Forest,Shrubland
+20,7,2295,206.54999999999998,2011-2012,Forest,Grassland
+20,8,9483,853.4699999999999,2011-2012,Forest,Cropland
+20,9,332,29.88,2011-2012,Forest,Wetland
+20,11,4,0.36,2011-2012,Forest,Lichens and mosses
+20,12,5,0.44999999999999996,2011-2012,Forest,Bareland
+20,13,179,16.11,2011-2012,Forest,Built-up
+20,15,7,0.63,2011-2012,Forest,Water
+20,20,2267479,204073.11,2011-2012,Forest,Forest
+5,5,34355,3091.95,2012-2013,Shrubland,Shrubland
+5,7,1189,107.00999999999999,2012-2013,Shrubland,Grassland
+5,8,2269,204.20999999999998,2012-2013,Shrubland,Cropland
+5,9,16,1.44,2012-2013,Shrubland,Wetland
+5,11,45,4.05,2012-2013,Shrubland,Lichens and mosses
+5,12,3,0.27,2012-2013,Shrubland,Bareland
+5,13,687,61.83,2012-2013,Shrubland,Built-up
+5,20,2453,220.76999999999998,2012-2013,Shrubland,Forest
+7,5,859,77.31,2012-2013,Grassland,Shrubland
+7,7,276371,24873.39,2012-2013,Grassland,Grassland
+7,8,9701,873.0899999999999,2012-2013,Grassland,Cropland
+7,11,21,1.89,2012-2013,Grassland,Lichens and mosses
+7,13,288,25.919999999999998,2012-2013,Grassland,Built-up
+7,20,4545,409.05,2012-2013,Grassland,Forest
+8,5,2431,218.79,2012-2013,Cropland,Shrubland
+8,7,13817,1243.53,2012-2013,Cropland,Grassland
+8,8,1777730,159995.69999999998,2012-2013,Cropland,Cropland
+8,9,122,10.98,2012-2013,Cropland,Wetland
+8,11,65,5.85,2012-2013,Cropland,Lichens and mosses
+8,12,8,0.72,2012-2013,Cropland,Bareland
+8,13,9164,824.76,2012-2013,Cropland,Built-up
+8,20,13331,1199.79,2012-2013,Cropland,Forest
+9,5,10,0.8999999999999999,2012-2013,Wetland,Shrubland
+9,8,33,2.9699999999999998,2012-2013,Wetland,Cropland
+9,9,3225,290.25,2012-2013,Wetland,Wetland
+9,12,1,0.09,2012-2013,Wetland,Bareland
+9,13,5,0.44999999999999996,2012-2013,Wetland,Built-up
+9,15,809,72.81,2012-2013,Wetland,Water
+9,20,91,8.19,2012-2013,Wetland,Forest
+11,5,31,2.79,2012-2013,Lichens and mosses,Shrubland
+11,7,80,7.199999999999999,2012-2013,Lichens and mosses,Grassland
+11,8,51,4.59,2012-2013,Lichens and mosses,Cropland
+11,11,869,78.21,2012-2013,Lichens and mosses,Lichens and mosses
+11,13,76,6.84,2012-2013,Lichens and mosses,Built-up
+11,20,7,0.63,2012-2013,Lichens and mosses,Forest
+12,5,13,1.17,2012-2013,Bareland,Shrubland
+12,8,9,0.8099999999999999,2012-2013,Bareland,Cropland
+12,9,1,0.09,2012-2013,Bareland,Wetland
+12,11,1,0.09,2012-2013,Bareland,Lichens and mosses
+12,12,283,25.47,2012-2013,Bareland,Bareland
+12,13,26,2.34,2012-2013,Bareland,Built-up
+12,15,1,0.09,2012-2013,Bareland,Water
+13,5,394,35.46,2012-2013,Built-up,Shrubland
+13,7,435,39.15,2012-2013,Built-up,Grassland
+13,8,8044,723.9599999999999,2012-2013,Built-up,Cropland
+13,9,3,0.27,2012-2013,Built-up,Wetland
+13,11,73,6.569999999999999,2012-2013,Built-up,Lichens and mosses
+13,12,14,1.26,2012-2013,Built-up,Bareland
+13,13,159526,14357.34,2012-2013,Built-up,Built-up
+13,20,166,14.94,2012-2013,Built-up,Forest
+15,8,4,0.36,2012-2013,Water,Cropland
+15,9,27,2.4299999999999997,2012-2013,Water,Wetland
+15,15,5314,478.26,2012-2013,Water,Water
+15,20,7,0.63,2012-2013,Water,Forest
+20,5,1861,167.48999999999998,2012-2013,Forest,Shrubland
+20,7,2455,220.95,2012-2013,Forest,Grassland
+20,8,9470,852.3,2012-2013,Forest,Cropland
+20,9,101,9.09,2012-2013,Forest,Wetland
+20,11,2,0.18,2012-2013,Forest,Lichens and mosses
+20,12,7,0.63,2012-2013,Forest,Bareland
+20,13,254,22.86,2012-2013,Forest,Built-up
+20,15,5,0.44999999999999996,2012-2013,Forest,Water
+20,20,2261292,203516.28,2012-2013,Forest,Forest
+5,5,35538,3198.42,2013-2014,Shrubland,Shrubland
+5,7,679,61.11,2013-2014,Shrubland,Grassland
+5,8,1342,120.78,2013-2014,Shrubland,Cropland
+5,9,18,1.6199999999999999,2013-2014,Shrubland,Wetland
+5,11,110,9.9,2013-2014,Shrubland,Lichens and mosses
+5,12,5,0.44999999999999996,2013-2014,Shrubland,Bareland
+5,13,460,41.4,2013-2014,Shrubland,Built-up
+5,20,1802,162.18,2013-2014,Shrubland,Forest
+7,5,1100,99.0,2013-2014,Grassland,Shrubland
+7,7,283489,25514.01,2013-2014,Grassland,Grassland
+7,8,5251,472.59,2013-2014,Grassland,Cropland
+7,11,14,1.26,2013-2014,Grassland,Lichens and mosses
+7,13,412,37.08,2013-2014,Grassland,Built-up
+7,20,4081,367.28999999999996,2013-2014,Grassland,Forest
+8,5,2353,211.76999999999998,2013-2014,Cropland,Shrubland
+8,7,9466,851.9399999999999,2013-2014,Cropland,Grassland
+8,8,1776255,159862.94999999998,2013-2014,Cropland,Cropland
+8,9,40,3.5999999999999996,2013-2014,Cropland,Wetland
+8,11,81,7.29,2013-2014,Cropland,Lichens and mosses
+8,12,5,0.44999999999999996,2013-2014,Cropland,Bareland
+8,13,7623,686.0699999999999,2013-2014,Cropland,Built-up
+8,15,6,0.54,2013-2014,Cropland,Water
+8,20,11482,1033.3799999999999,2013-2014,Cropland,Forest
+9,5,16,1.44,2013-2014,Wetland,Shrubland
+9,8,44,3.96,2013-2014,Wetland,Cropland
+9,9,3079,277.11,2013-2014,Wetland,Wetland
+9,13,9,0.8099999999999999,2013-2014,Wetland,Built-up
+9,15,266,23.939999999999998,2013-2014,Wetland,Water
+9,20,81,7.29,2013-2014,Wetland,Forest
+11,5,25,2.25,2013-2014,Lichens and mosses,Shrubland
+11,7,65,5.85,2013-2014,Lichens and mosses,Grassland
+11,8,44,3.96,2013-2014,Lichens and mosses,Cropland
+11,11,847,76.23,2013-2014,Lichens and mosses,Lichens and mosses
+11,13,78,7.02,2013-2014,Lichens and mosses,Built-up
+11,20,17,1.53,2013-2014,Lichens and mosses,Forest
+12,5,8,0.72,2013-2014,Bareland,Shrubland
+12,8,8,0.72,2013-2014,Bareland,Cropland
+12,9,3,0.27,2013-2014,Bareland,Wetland
+12,11,1,0.09,2013-2014,Bareland,Lichens and mosses
+12,12,271,24.39,2013-2014,Bareland,Bareland
+12,13,19,1.71,2013-2014,Bareland,Built-up
+12,15,2,0.18,2013-2014,Bareland,Water
+12,20,4,0.36,2013-2014,Bareland,Forest
+13,5,418,37.62,2013-2014,Built-up,Shrubland
+13,7,396,35.64,2013-2014,Built-up,Grassland
+13,8,6727,605.43,2013-2014,Built-up,Cropland
+13,9,2,0.18,2013-2014,Built-up,Wetland
+13,11,78,7.02,2013-2014,Built-up,Lichens and mosses
+13,12,9,0.8099999999999999,2013-2014,Built-up,Bareland
+13,13,162162,14594.58,2013-2014,Built-up,Built-up
+13,15,1,0.09,2013-2014,Built-up,Water
+13,20,233,20.97,2013-2014,Built-up,Forest
+15,8,3,0.27,2013-2014,Water,Cropland
+15,9,50,4.5,2013-2014,Water,Wetland
+15,12,1,0.09,2013-2014,Water,Bareland
+15,15,6074,546.66,2013-2014,Water,Water
+15,20,1,0.09,2013-2014,Water,Forest
+20,5,1721,154.89,2013-2014,Forest,Shrubland
+20,7,1534,138.06,2013-2014,Forest,Grassland
+20,8,7118,640.62,2013-2014,Forest,Cropland
+20,9,57,5.13,2013-2014,Forest,Wetland
+20,11,14,1.26,2013-2014,Forest,Lichens and mosses
+20,12,2,0.18,2013-2014,Forest,Bareland
+20,13,166,14.94,2013-2014,Forest,Built-up
+20,15,26,2.34,2013-2014,Forest,Water
+20,20,2271254,204412.86,2013-2014,Forest,Forest
+5,5,36322,3268.98,2014-2015,Shrubland,Shrubland
+5,7,993,89.36999999999999,2014-2015,Shrubland,Grassland
+5,8,1669,150.21,2014-2015,Shrubland,Cropland
+5,9,28,2.52,2014-2015,Shrubland,Wetland
+5,11,43,3.8699999999999997,2014-2015,Shrubland,Lichens and mosses
+5,12,7,0.63,2014-2015,Shrubland,Bareland
+5,13,383,34.47,2014-2015,Shrubland,Built-up
+5,20,1734,156.06,2014-2015,Shrubland,Forest
+7,5,1159,104.31,2014-2015,Grassland,Shrubland
+7,7,282737,25446.329999999998,2014-2015,Grassland,Grassland
+7,8,6683,601.47,2014-2015,Grassland,Cropland
+7,11,40,3.5999999999999996,2014-2015,Grassland,Lichens and mosses
+7,12,1,0.09,2014-2015,Grassland,Bareland
+7,13,411,36.99,2014-2015,Grassland,Built-up
+7,20,4598,413.82,2014-2015,Grassland,Forest
+8,5,2536,228.23999999999998,2014-2015,Cropland,Shrubland
+8,7,10043,903.87,2014-2015,Cropland,Grassland
+8,8,1762531,158627.79,2014-2015,Cropland,Cropland
+8,9,55,4.95,2014-2015,Cropland,Wetland
+8,11,58,5.22,2014-2015,Cropland,Lichens and mosses
+8,12,11,0.99,2014-2015,Cropland,Bareland
+8,13,9272,834.48,2014-2015,Cropland,Built-up
+8,15,4,0.36,2014-2015,Cropland,Water
+8,20,12282,1105.3799999999999,2014-2015,Cropland,Forest
+9,5,17,1.53,2014-2015,Wetland,Shrubland
+9,8,84,7.56,2014-2015,Wetland,Cropland
+9,9,2905,261.45,2014-2015,Wetland,Wetland
+9,12,2,0.18,2014-2015,Wetland,Bareland
+9,13,49,4.41,2014-2015,Wetland,Built-up
+9,15,79,7.109999999999999,2014-2015,Wetland,Water
+9,20,113,10.17,2014-2015,Wetland,Forest
+11,5,17,1.53,2014-2015,Lichens and mosses,Shrubland
+11,7,90,8.1,2014-2015,Lichens and mosses,Grassland
+11,8,84,7.56,2014-2015,Lichens and mosses,Cropland
+11,11,883,79.47,2014-2015,Lichens and mosses,Lichens and mosses
+11,12,4,0.36,2014-2015,Lichens and mosses,Bareland
+11,13,61,5.49,2014-2015,Lichens and mosses,Built-up
+11,20,6,0.54,2014-2015,Lichens and mosses,Forest
+12,5,6,0.54,2014-2015,Bareland,Shrubland
+12,8,12,1.08,2014-2015,Bareland,Cropland
+12,9,1,0.09,2014-2015,Bareland,Wetland
+12,12,257,23.13,2014-2015,Bareland,Bareland
+12,13,9,0.8099999999999999,2014-2015,Bareland,Built-up
+12,15,5,0.44999999999999996,2014-2015,Bareland,Water
+12,20,3,0.27,2014-2015,Bareland,Forest
+13,5,582,52.379999999999995,2014-2015,Built-up,Shrubland
+13,7,462,41.58,2014-2015,Built-up,Grassland
+13,8,7679,691.11,2014-2015,Built-up,Cropland
+13,9,6,0.54,2014-2015,Built-up,Wetland
+13,11,108,9.719999999999999,2014-2015,Built-up,Lichens and mosses
+13,12,40,3.5999999999999996,2014-2015,Built-up,Bareland
+13,13,161789,14561.01,2014-2015,Built-up,Built-up
+13,15,1,0.09,2014-2015,Built-up,Water
+13,20,262,23.58,2014-2015,Built-up,Forest
+15,8,4,0.36,2014-2015,Water,Cropland
+15,9,308,27.72,2014-2015,Water,Wetland
+15,13,2,0.18,2014-2015,Water,Built-up
+15,15,6053,544.77,2014-2015,Water,Water
+15,20,8,0.72,2014-2015,Water,Forest
+20,5,1835,165.15,2014-2015,Forest,Shrubland
+20,7,2449,220.41,2014-2015,Forest,Grassland
+20,8,9190,827.1,2014-2015,Forest,Cropland
+20,9,87,7.83,2014-2015,Forest,Wetland
+20,11,7,0.63,2014-2015,Forest,Lichens and mosses
+20,12,3,0.27,2014-2015,Forest,Bareland
+20,13,232,20.88,2014-2015,Forest,Built-up
+20,15,23,2.07,2014-2015,Forest,Water
+20,20,2275129,204761.61,2014-2015,Forest,Forest
+5,5,35819,3223.71,2015-2016,Shrubland,Shrubland
+5,7,1680,151.2,2015-2016,Shrubland,Grassland
+5,8,2308,207.72,2015-2016,Shrubland,Cropland
+5,9,12,1.08,2015-2016,Shrubland,Wetland
+5,11,43,3.8699999999999997,2015-2016,Shrubland,Lichens and mosses
+5,12,14,1.26,2015-2016,Shrubland,Bareland
+5,13,522,46.98,2015-2016,Shrubland,Built-up
+5,20,2076,186.84,2015-2016,Shrubland,Forest
+7,5,1058,95.22,2015-2016,Grassland,Shrubland
+7,7,284975,25647.75,2015-2016,Grassland,Grassland
+7,8,7251,652.59,2015-2016,Grassland,Cropland
+7,11,10,0.8999999999999999,2015-2016,Grassland,Lichens and mosses
+7,13,393,35.37,2015-2016,Grassland,Built-up
+7,20,3087,277.83,2015-2016,Grassland,Forest
+8,5,3544,318.96,2015-2016,Cropland,Shrubland
+8,7,12495,1124.55,2015-2016,Cropland,Grassland
+8,8,1753392,157805.28,2015-2016,Cropland,Cropland
+8,9,27,2.4299999999999997,2015-2016,Cropland,Wetland
+8,11,28,2.52,2015-2016,Cropland,Lichens and mosses
+8,12,11,0.99,2015-2016,Cropland,Bareland
+8,13,6920,622.8,2015-2016,Cropland,Built-up
+8,15,6,0.54,2015-2016,Cropland,Water
+8,20,11513,1036.17,2015-2016,Cropland,Forest
+9,5,9,0.8099999999999999,2015-2016,Wetland,Shrubland
+9,8,143,12.87,2015-2016,Wetland,Cropland
+9,9,3010,270.9,2015-2016,Wetland,Wetland
+9,12,3,0.27,2015-2016,Wetland,Bareland
+9,13,14,1.26,2015-2016,Wetland,Built-up
+9,15,55,4.95,2015-2016,Wetland,Water
+9,20,156,14.04,2015-2016,Wetland,Forest
+11,5,44,3.96,2015-2016,Lichens and mosses,Shrubland
+11,7,98,8.82,2015-2016,Lichens and mosses,Grassland
+11,8,88,7.92,2015-2016,Lichens and mosses,Cropland
+11,11,797,71.73,2015-2016,Lichens and mosses,Lichens and mosses
+11,13,101,9.09,2015-2016,Lichens and mosses,Built-up
+11,20,11,0.99,2015-2016,Lichens and mosses,Forest
+12,5,9,0.8099999999999999,2015-2016,Bareland,Shrubland
+12,8,9,0.8099999999999999,2015-2016,Bareland,Cropland
+12,9,2,0.18,2015-2016,Bareland,Wetland
+12,12,260,23.4,2015-2016,Bareland,Bareland
+12,13,40,3.5999999999999996,2015-2016,Bareland,Built-up
+12,15,1,0.09,2015-2016,Bareland,Water
+12,20,4,0.36,2015-2016,Bareland,Forest
+13,5,370,33.3,2015-2016,Built-up,Shrubland
+13,7,391,35.19,2015-2016,Built-up,Grassland
+13,8,8772,789.48,2015-2016,Built-up,Cropland
+13,9,7,0.63,2015-2016,Built-up,Wetland
+13,11,58,5.22,2015-2016,Built-up,Lichens and mosses
+13,12,6,0.54,2015-2016,Built-up,Bareland
+13,13,162316,14608.439999999999,2015-2016,Built-up,Built-up
+13,15,1,0.09,2015-2016,Built-up,Water
+13,20,287,25.83,2015-2016,Built-up,Forest
+15,5,2,0.18,2015-2016,Water,Shrubland
+15,8,2,0.18,2015-2016,Water,Cropland
+15,9,391,35.19,2015-2016,Water,Wetland
+15,12,3,0.27,2015-2016,Water,Bareland
+15,13,1,0.09,2015-2016,Water,Built-up
+15,15,5745,517.05,2015-2016,Water,Water
+15,20,21,1.89,2015-2016,Water,Forest
+20,5,2780,250.2,2015-2016,Forest,Shrubland
+20,7,3382,304.38,2015-2016,Forest,Grassland
+20,8,11761,1058.49,2015-2016,Forest,Cropland
+20,9,66,5.9399999999999995,2015-2016,Forest,Wetland
+20,11,2,0.18,2015-2016,Forest,Lichens and mosses
+20,12,3,0.27,2015-2016,Forest,Bareland
+20,13,212,19.08,2015-2016,Forest,Built-up
+20,15,12,1.08,2015-2016,Forest,Water
+20,20,2275917,204832.53,2015-2016,Forest,Forest
+5,5,38750,3487.5,2016-2017,Shrubland,Shrubland
+5,7,845,76.05,2016-2017,Shrubland,Grassland
+5,8,1727,155.43,2016-2017,Shrubland,Cropland
+5,9,9,0.8099999999999999,2016-2017,Shrubland,Wetland
+5,11,22,1.98,2016-2017,Shrubland,Lichens and mosses
+5,12,14,1.26,2016-2017,Shrubland,Bareland
+5,13,429,38.61,2016-2017,Shrubland,Built-up
+5,20,1839,165.51,2016-2017,Shrubland,Forest
+7,5,1153,103.77,2016-2017,Grassland,Shrubland
+7,7,291966,26276.94,2016-2017,Grassland,Grassland
+7,8,6371,573.39,2016-2017,Grassland,Cropland
+7,11,40,3.5999999999999996,2016-2017,Grassland,Lichens and mosses
+7,13,277,24.93,2016-2017,Grassland,Built-up
+7,20,3214,289.26,2016-2017,Grassland,Forest
+8,5,2222,199.98,2016-2017,Cropland,Shrubland
+8,7,6523,587.0699999999999,2016-2017,Cropland,Grassland
+8,8,1758173,158235.57,2016-2017,Cropland,Cropland
+8,9,60,5.3999999999999995,2016-2017,Cropland,Wetland
+8,11,48,4.32,2016-2017,Cropland,Lichens and mosses
+8,12,9,0.8099999999999999,2016-2017,Cropland,Bareland
+8,13,7559,680.31,2016-2017,Cropland,Built-up
+8,15,2,0.18,2016-2017,Cropland,Water
+8,20,9130,821.6999999999999,2016-2017,Cropland,Forest
+9,5,27,2.4299999999999997,2016-2017,Wetland,Shrubland
+9,7,3,0.27,2016-2017,Wetland,Grassland
+9,8,155,13.95,2016-2017,Wetland,Cropland
+9,9,3013,271.17,2016-2017,Wetland,Wetland
+9,12,8,0.72,2016-2017,Wetland,Bareland
+9,13,11,0.99,2016-2017,Wetland,Built-up
+9,15,142,12.78,2016-2017,Wetland,Water
+9,20,156,14.04,2016-2017,Wetland,Forest
+11,5,11,0.99,2016-2017,Lichens and mosses,Shrubland
+11,7,33,2.9699999999999998,2016-2017,Lichens and mosses,Grassland
+11,8,45,4.05,2016-2017,Lichens and mosses,Cropland
+11,11,768,69.12,2016-2017,Lichens and mosses,Lichens and mosses
+11,12,13,1.17,2016-2017,Lichens and mosses,Bareland
+11,13,55,4.95,2016-2017,Lichens and mosses,Built-up
+11,20,13,1.17,2016-2017,Lichens and mosses,Forest
+12,5,2,0.18,2016-2017,Bareland,Shrubland
+12,8,2,0.18,2016-2017,Bareland,Cropland
+12,9,2,0.18,2016-2017,Bareland,Wetland
+12,12,278,25.02,2016-2017,Bareland,Bareland
+12,13,10,0.8999999999999999,2016-2017,Bareland,Built-up
+12,15,1,0.09,2016-2017,Bareland,Water
+12,20,5,0.44999999999999996,2016-2017,Bareland,Forest
+13,5,373,33.57,2016-2017,Built-up,Shrubland
+13,7,470,42.3,2016-2017,Built-up,Grassland
+13,8,7605,684.4499999999999,2016-2017,Built-up,Cropland
+13,9,4,0.36,2016-2017,Built-up,Wetland
+13,11,64,5.76,2016-2017,Built-up,Lichens and mosses
+13,12,5,0.44999999999999996,2016-2017,Built-up,Bareland
+13,13,161771,14559.39,2016-2017,Built-up,Built-up
+13,20,227,20.43,2016-2017,Built-up,Forest
+15,5,1,0.09,2016-2017,Water,Shrubland
+15,8,3,0.27,2016-2017,Water,Cropland
+15,9,39,3.51,2016-2017,Water,Wetland
+15,12,4,0.36,2016-2017,Water,Bareland
+15,13,1,0.09,2016-2017,Water,Built-up
+15,15,5771,519.39,2016-2017,Water,Water
+15,20,1,0.09,2016-2017,Water,Forest
+20,5,1673,150.57,2016-2017,Forest,Shrubland
+20,7,2017,181.53,2016-2017,Forest,Grassland
+20,8,7131,641.79,2016-2017,Forest,Cropland
+20,9,144,12.959999999999999,2016-2017,Forest,Wetland
+20,11,4,0.36,2016-2017,Forest,Lichens and mosses
+20,12,3,0.27,2016-2017,Forest,Bareland
+20,13,228,20.52,2016-2017,Forest,Built-up
+20,15,5,0.44999999999999996,2016-2017,Forest,Water
+20,20,2281867,205368.03,2016-2017,Forest,Forest
+5,5,39892,3590.2799999999997,2017-2018,Shrubland,Shrubland
+5,7,985,88.64999999999999,2017-2018,Shrubland,Grassland
+5,8,1240,111.6,2017-2018,Shrubland,Cropland
+5,9,13,1.17,2017-2018,Shrubland,Wetland
+5,11,21,1.89,2017-2018,Shrubland,Lichens and mosses
+5,13,386,34.74,2017-2018,Shrubland,Built-up
+5,20,1675,150.75,2017-2018,Shrubland,Forest
+7,5,1550,139.5,2017-2018,Grassland,Shrubland
+7,7,290464,26141.76,2017-2018,Grassland,Grassland
+7,8,5937,534.3299999999999,2017-2018,Grassland,Cropland
+7,9,1,0.09,2017-2018,Grassland,Wetland
+7,11,29,2.61,2017-2018,Grassland,Lichens and mosses
+7,13,629,56.61,2017-2018,Grassland,Built-up
+7,20,3247,292.22999999999996,2017-2018,Grassland,Forest
+8,5,4976,447.84,2017-2018,Cropland,Shrubland
+8,7,8310,747.9,2017-2018,Cropland,Grassland
+8,8,1749637,157467.33,2017-2018,Cropland,Cropland
+8,9,40,3.5999999999999996,2017-2018,Cropland,Wetland
+8,11,77,6.93,2017-2018,Cropland,Lichens and mosses
+8,12,8,0.72,2017-2018,Cropland,Bareland
+8,13,7323,659.0699999999999,2017-2018,Cropland,Built-up
+8,20,10841,975.6899999999999,2017-2018,Cropland,Forest
+9,5,18,1.6199999999999999,2017-2018,Wetland,Shrubland
+9,8,52,4.68,2017-2018,Wetland,Cropland
+9,9,2869,258.21,2017-2018,Wetland,Wetland
+9,13,3,0.27,2017-2018,Wetland,Built-up
+9,15,194,17.46,2017-2018,Wetland,Water
+9,20,135,12.15,2017-2018,Wetland,Forest
+11,5,33,2.9699999999999998,2017-2018,Lichens and mosses,Shrubland
+11,7,15,1.3499999999999999,2017-2018,Lichens and mosses,Grassland
+11,8,43,3.8699999999999997,2017-2018,Lichens and mosses,Cropland
+11,11,775,69.75,2017-2018,Lichens and mosses,Lichens and mosses
+11,13,75,6.75,2017-2018,Lichens and mosses,Built-up
+11,20,5,0.44999999999999996,2017-2018,Lichens and mosses,Forest
+12,5,9,0.8099999999999999,2017-2018,Bareland,Shrubland
+12,7,1,0.09,2017-2018,Bareland,Grassland
+12,8,5,0.44999999999999996,2017-2018,Bareland,Cropland
+12,9,5,0.44999999999999996,2017-2018,Bareland,Wetland
+12,12,300,27.0,2017-2018,Bareland,Bareland
+12,13,5,0.44999999999999996,2017-2018,Bareland,Built-up
+12,15,7,0.63,2017-2018,Bareland,Water
+12,20,2,0.18,2017-2018,Bareland,Forest
+13,5,507,45.629999999999995,2017-2018,Built-up,Shrubland
+13,7,221,19.89,2017-2018,Built-up,Grassland
+13,8,9521,856.89,2017-2018,Built-up,Cropland
+13,9,3,0.27,2017-2018,Built-up,Wetland
+13,11,64,5.76,2017-2018,Built-up,Lichens and mosses
+13,12,9,0.8099999999999999,2017-2018,Built-up,Bareland
+13,13,159695,14372.55,2017-2018,Built-up,Built-up
+13,15,2,0.18,2017-2018,Built-up,Water
+13,20,319,28.709999999999997,2017-2018,Built-up,Forest
+15,8,2,0.18,2017-2018,Water,Cropland
+15,9,24,2.16,2017-2018,Water,Wetland
+15,12,3,0.27,2017-2018,Water,Bareland
+15,13,1,0.09,2017-2018,Water,Built-up
+15,15,5886,529.74,2017-2018,Water,Water
+15,20,5,0.44999999999999996,2017-2018,Water,Forest
+20,5,3400,306.0,2017-2018,Forest,Shrubland
+20,7,2448,220.32,2017-2018,Forest,Grassland
+20,8,7806,702.54,2017-2018,Forest,Cropland
+20,9,102,9.18,2017-2018,Forest,Wetland
+20,11,5,0.44999999999999996,2017-2018,Forest,Lichens and mosses
+20,12,9,0.8099999999999999,2017-2018,Forest,Bareland
+20,13,228,20.52,2017-2018,Forest,Built-up
+20,15,8,0.72,2017-2018,Forest,Water
+20,20,2282446,205420.13999999998,2017-2018,Forest,Forest
+5,5,44079,3967.1099999999997,2018-2019,Shrubland,Shrubland
+5,7,1010,90.89999999999999,2018-2019,Shrubland,Grassland
+5,8,2179,196.10999999999999,2018-2019,Shrubland,Cropland
+5,9,21,1.89,2018-2019,Shrubland,Wetland
+5,11,59,5.31,2018-2019,Shrubland,Lichens and mosses
+5,12,9,0.8099999999999999,2018-2019,Shrubland,Bareland
+5,13,318,28.619999999999997,2018-2019,Shrubland,Built-up
+5,15,1,0.09,2018-2019,Shrubland,Water
+5,20,2709,243.81,2018-2019,Shrubland,Forest
+7,5,2237,201.32999999999998,2018-2019,Grassland,Shrubland
+7,7,287417,25867.53,2018-2019,Grassland,Grassland
+7,8,8429,758.61,2018-2019,Grassland,Cropland
+7,9,2,0.18,2018-2019,Grassland,Wetland
+7,11,44,3.96,2018-2019,Grassland,Lichens and mosses
+7,13,265,23.849999999999998,2018-2019,Grassland,Built-up
+7,20,4050,364.5,2018-2019,Grassland,Forest
+8,5,3851,346.59,2018-2019,Cropland,Shrubland
+8,7,7284,655.56,2018-2019,Cropland,Grassland
+8,8,1742788,156850.91999999998,2018-2019,Cropland,Cropland
+8,9,62,5.58,2018-2019,Cropland,Wetland
+8,11,81,7.29,2018-2019,Cropland,Lichens and mosses
+8,12,8,0.72,2018-2019,Cropland,Bareland
+8,13,7341,660.6899999999999,2018-2019,Cropland,Built-up
+8,15,13,1.17,2018-2019,Cropland,Water
+8,20,12815,1153.35,2018-2019,Cropland,Forest
+9,5,23,2.07,2018-2019,Wetland,Shrubland
+9,7,1,0.09,2018-2019,Wetland,Grassland
+9,8,108,9.719999999999999,2018-2019,Wetland,Cropland
+9,9,2449,220.41,2018-2019,Wetland,Wetland
+9,11,1,0.09,2018-2019,Wetland,Lichens and mosses
+9,12,1,0.09,2018-2019,Wetland,Bareland
+9,13,7,0.63,2018-2019,Wetland,Built-up
+9,15,302,27.18,2018-2019,Wetland,Water
+9,20,165,14.85,2018-2019,Wetland,Forest
+11,5,38,3.42,2018-2019,Lichens and mosses,Shrubland
+11,7,57,5.13,2018-2019,Lichens and mosses,Grassland
+11,8,44,3.96,2018-2019,Lichens and mosses,Cropland
+11,11,769,69.21,2018-2019,Lichens and mosses,Lichens and mosses
+11,13,52,4.68,2018-2019,Lichens and mosses,Built-up
+11,20,11,0.99,2018-2019,Lichens and mosses,Forest
+12,5,9,0.8099999999999999,2018-2019,Bareland,Shrubland
+12,8,7,0.63,2018-2019,Bareland,Cropland
+12,9,1,0.09,2018-2019,Bareland,Wetland
+12,12,288,25.919999999999998,2018-2019,Bareland,Bareland
+12,13,4,0.36,2018-2019,Bareland,Built-up
+12,15,13,1.17,2018-2019,Bareland,Water
+12,20,7,0.63,2018-2019,Bareland,Forest
+13,5,694,62.46,2018-2019,Built-up,Shrubland
+13,7,423,38.07,2018-2019,Built-up,Grassland
+13,8,8649,778.41,2018-2019,Built-up,Cropland
+13,11,85,7.6499999999999995,2018-2019,Built-up,Lichens and mosses
+13,12,4,0.36,2018-2019,Built-up,Bareland
+13,13,158204,14238.359999999999,2018-2019,Built-up,Built-up
+13,20,286,25.74,2018-2019,Built-up,Forest
+15,8,3,0.27,2018-2019,Water,Cropland
+15,9,38,3.42,2018-2019,Water,Wetland
+15,12,1,0.09,2018-2019,Water,Bareland
+15,13,2,0.18,2018-2019,Water,Built-up
+15,15,6044,543.96,2018-2019,Water,Water
+15,20,9,0.8099999999999999,2018-2019,Water,Forest
+20,5,3422,307.97999999999996,2018-2019,Forest,Shrubland
+20,7,2656,239.04,2018-2019,Forest,Grassland
+20,8,8297,746.73,2018-2019,Forest,Cropland
+20,9,113,10.17,2018-2019,Forest,Wetland
+20,11,12,1.08,2018-2019,Forest,Lichens and mosses
+20,12,3,0.27,2018-2019,Forest,Bareland
+20,13,183,16.47,2018-2019,Forest,Built-up
+20,15,45,4.05,2018-2019,Forest,Water
+20,20,2283944,205554.96,2018-2019,Forest,Forest
+5,5,46961,4226.49,2019-2020,Shrubland,Shrubland
+5,7,1482,133.38,2019-2020,Shrubland,Grassland
+5,8,3093,278.37,2019-2020,Shrubland,Cropland
+5,9,24,2.16,2019-2020,Shrubland,Wetland
+5,11,32,2.88,2019-2020,Shrubland,Lichens and mosses
+5,12,1,0.09,2019-2020,Shrubland,Bareland
+5,13,627,56.43,2019-2020,Shrubland,Built-up
+5,15,1,0.09,2019-2020,Shrubland,Water
+5,20,2132,191.88,2019-2020,Shrubland,Forest
+7,5,976,87.84,2019-2020,Grassland,Shrubland
+7,7,287667,25890.03,2019-2020,Grassland,Grassland
+7,8,7482,673.38,2019-2020,Grassland,Cropland
+7,11,53,4.77,2019-2020,Grassland,Lichens and mosses
+7,13,315,28.349999999999998,2019-2020,Grassland,Built-up
+7,20,2355,211.95,2019-2020,Grassland,Forest
+8,5,2216,199.44,2019-2020,Cropland,Shrubland
+8,7,6771,609.39,2019-2020,Cropland,Grassland
+8,8,1745472,157092.47999999998,2019-2020,Cropland,Cropland
+8,9,112,10.08,2019-2020,Cropland,Wetland
+8,11,45,4.05,2019-2020,Cropland,Lichens and mosses
+8,12,7,0.63,2019-2020,Cropland,Bareland
+8,13,7260,653.4,2019-2020,Cropland,Built-up
+8,15,4,0.36,2019-2020,Cropland,Water
+8,20,8617,775.53,2019-2020,Cropland,Forest
+9,5,14,1.26,2019-2020,Wetland,Shrubland
+9,8,66,5.9399999999999995,2019-2020,Wetland,Cropland
+9,9,2462,221.57999999999998,2019-2020,Wetland,Wetland
+9,12,3,0.27,2019-2020,Wetland,Bareland
+9,13,1,0.09,2019-2020,Wetland,Built-up
+9,15,44,3.96,2019-2020,Wetland,Water
+9,20,96,8.64,2019-2020,Wetland,Forest
+11,5,60,5.3999999999999995,2019-2020,Lichens and mosses,Shrubland
+11,7,46,4.14,2019-2020,Lichens and mosses,Grassland
+11,8,83,7.47,2019-2020,Lichens and mosses,Cropland
+11,11,750,67.5,2019-2020,Lichens and mosses,Lichens and mosses
+11,12,1,0.09,2019-2020,Lichens and mosses,Bareland
+11,13,101,9.09,2019-2020,Lichens and mosses,Built-up
+11,20,10,0.8999999999999999,2019-2020,Lichens and mosses,Forest
+12,5,13,1.17,2019-2020,Bareland,Shrubland
+12,8,11,0.99,2019-2020,Bareland,Cropland
+12,12,265,23.849999999999998,2019-2020,Bareland,Bareland
+12,13,8,0.72,2019-2020,Bareland,Built-up
+12,15,12,1.08,2019-2020,Bareland,Water
+12,20,5,0.44999999999999996,2019-2020,Bareland,Forest
+13,5,486,43.739999999999995,2019-2020,Built-up,Shrubland
+13,7,209,18.81,2019-2020,Built-up,Grassland
+13,8,7781,700.29,2019-2020,Built-up,Cropland
+13,9,14,1.26,2019-2020,Built-up,Wetland
+13,11,72,6.4799999999999995,2019-2020,Built-up,Lichens and mosses
+13,12,11,0.99,2019-2020,Built-up,Bareland
+13,13,157564,14180.76,2019-2020,Built-up,Built-up
+13,20,239,21.509999999999998,2019-2020,Built-up,Forest
+15,8,6,0.54,2019-2020,Water,Cropland
+15,9,451,40.589999999999996,2019-2020,Water,Wetland
+15,12,4,0.36,2019-2020,Water,Bareland
+15,15,5940,534.6,2019-2020,Water,Water
+15,20,17,1.53,2019-2020,Water,Forest
+20,5,2596,233.64,2019-2020,Forest,Shrubland
+20,7,3080,277.2,2019-2020,Forest,Grassland
+20,8,10432,938.88,2019-2020,Forest,Cropland
+20,9,175,15.75,2019-2020,Forest,Wetland
+20,11,10,0.8999999999999999,2019-2020,Forest,Lichens and mosses
+20,13,229,20.61,2019-2020,Forest,Built-up
+20,15,17,1.53,2019-2020,Forest,Water
+20,20,2287457,205871.13,2019-2020,Forest,Forest
+5,5,45130,4061.7,2020-2021,Shrubland,Shrubland
+5,7,1393,125.36999999999999,2020-2021,Shrubland,Grassland
+5,8,3658,329.21999999999997,2020-2021,Shrubland,Cropland
+5,9,33,2.9699999999999998,2020-2021,Shrubland,Wetland
+5,11,20,1.7999999999999998,2020-2021,Shrubland,Lichens and mosses
+5,12,3,0.27,2020-2021,Shrubland,Bareland
+5,13,410,36.9,2020-2021,Shrubland,Built-up
+5,20,2675,240.75,2020-2021,Shrubland,Forest
+7,5,1245,112.05,2020-2021,Grassland,Shrubland
+7,7,283855,25546.95,2020-2021,Grassland,Grassland
+7,8,10926,983.3399999999999,2020-2021,Grassland,Cropland
+7,11,32,2.88,2020-2021,Grassland,Lichens and mosses
+7,13,201,18.09,2020-2021,Grassland,Built-up
+7,20,2996,269.64,2020-2021,Grassland,Forest
+8,5,2458,221.22,2020-2021,Cropland,Shrubland
+8,7,8021,721.89,2020-2021,Cropland,Grassland
+8,8,1745717,157114.53,2020-2021,Cropland,Cropland
+8,9,80,7.199999999999999,2020-2021,Cropland,Wetland
+8,11,25,2.25,2020-2021,Cropland,Lichens and mosses
+8,12,6,0.54,2020-2021,Cropland,Bareland
+8,13,7832,704.88,2020-2021,Cropland,Built-up
+8,15,6,0.54,2020-2021,Cropland,Water
+8,20,10281,925.29,2020-2021,Cropland,Forest
+9,5,28,2.52,2020-2021,Wetland,Shrubland
+9,8,125,11.25,2020-2021,Wetland,Cropland
+9,9,2705,243.45,2020-2021,Wetland,Wetland
+9,12,8,0.72,2020-2021,Wetland,Bareland
+9,13,6,0.54,2020-2021,Wetland,Built-up
+9,15,47,4.2299999999999995,2020-2021,Wetland,Water
+9,20,319,28.709999999999997,2020-2021,Wetland,Forest
+11,5,34,3.06,2020-2021,Lichens and mosses,Shrubland
+11,7,41,3.69,2020-2021,Lichens and mosses,Grassland
+11,8,94,8.459999999999999,2020-2021,Lichens and mosses,Cropland
+11,11,724,65.16,2020-2021,Lichens and mosses,Lichens and mosses
+11,12,2,0.18,2020-2021,Lichens and mosses,Bareland
+11,13,57,5.13,2020-2021,Lichens and mosses,Built-up
+11,20,10,0.8999999999999999,2020-2021,Lichens and mosses,Forest
+12,5,17,1.53,2020-2021,Bareland,Shrubland
+12,7,1,0.09,2020-2021,Bareland,Grassland
+12,8,7,0.63,2020-2021,Bareland,Cropland
+12,9,2,0.18,2020-2021,Bareland,Wetland
+12,12,245,22.05,2020-2021,Bareland,Bareland
+12,13,9,0.8099999999999999,2020-2021,Bareland,Built-up
+12,15,9,0.8099999999999999,2020-2021,Bareland,Water
+12,20,2,0.18,2020-2021,Bareland,Forest
+13,5,1222,109.97999999999999,2020-2021,Built-up,Shrubland
+13,7,322,28.98,2020-2021,Built-up,Grassland
+13,8,10269,924.2099999999999,2020-2021,Built-up,Cropland
+13,9,22,1.98,2020-2021,Built-up,Wetland
+13,11,66,5.9399999999999995,2020-2021,Built-up,Lichens and mosses
+13,12,42,3.78,2020-2021,Built-up,Bareland
+13,13,153861,13847.49,2020-2021,Built-up,Built-up
+13,15,1,0.09,2020-2021,Built-up,Water
+13,20,300,27.0,2020-2021,Built-up,Forest
+15,8,2,0.18,2020-2021,Water,Cropland
+15,9,457,41.129999999999995,2020-2021,Water,Wetland
+15,15,5544,498.96,2020-2021,Water,Water
+15,20,15,1.3499999999999999,2020-2021,Water,Forest
+20,5,2365,212.85,2020-2021,Forest,Shrubland
+20,7,3567,321.03,2020-2021,Forest,Grassland
+20,8,12323,1109.07,2020-2021,Forest,Cropland
+20,9,162,14.58,2020-2021,Forest,Wetland
+20,11,7,0.63,2020-2021,Forest,Lichens and mosses
+20,12,4,0.36,2020-2021,Forest,Bareland
+20,13,254,22.86,2020-2021,Forest,Built-up
+20,15,10,0.8999999999999999,2020-2021,Forest,Water
+20,20,2282236,205401.24,2020-2021,Forest,Forest
+5,5,47861,4307.49,2021-2022,Shrubland,Shrubland
+5,7,477,42.93,2021-2022,Shrubland,Grassland
+5,8,1838,165.42,2021-2022,Shrubland,Cropland
+5,9,17,1.53,2021-2022,Shrubland,Wetland
+5,11,22,1.98,2021-2022,Shrubland,Lichens and mosses
+5,12,1,0.09,2021-2022,Shrubland,Bareland
+5,13,916,82.44,2021-2022,Shrubland,Built-up
+5,15,1,0.09,2021-2022,Shrubland,Water
+5,20,1366,122.94,2021-2022,Shrubland,Forest
+7,5,642,57.78,2021-2022,Grassland,Shrubland
+7,7,289516,26056.44,2021-2022,Grassland,Grassland
+7,8,5823,524.0699999999999,2021-2022,Grassland,Cropland
+7,11,45,4.05,2021-2022,Grassland,Lichens and mosses
+7,13,247,22.23,2021-2022,Grassland,Built-up
+7,20,927,83.42999999999999,2021-2022,Grassland,Forest
+8,5,1128,101.52,2021-2022,Cropland,Shrubland
+8,7,3365,302.84999999999997,2021-2022,Cropland,Grassland
+8,8,1768287,159145.83,2021-2022,Cropland,Cropland
+8,9,114,10.26,2021-2022,Cropland,Wetland
+8,11,28,2.52,2021-2022,Cropland,Lichens and mosses
+8,12,5,0.44999999999999996,2021-2022,Cropland,Bareland
+8,13,6479,583.11,2021-2022,Cropland,Built-up
+8,15,19,1.71,2021-2022,Cropland,Water
+8,20,3696,332.64,2021-2022,Cropland,Forest
+9,5,24,2.16,2021-2022,Wetland,Shrubland
+9,8,39,3.51,2021-2022,Wetland,Cropland
+9,9,3138,282.42,2021-2022,Wetland,Wetland
+9,13,6,0.54,2021-2022,Wetland,Built-up
+9,15,61,5.49,2021-2022,Wetland,Water
+9,20,193,17.37,2021-2022,Wetland,Forest
+11,5,8,0.72,2021-2022,Lichens and mosses,Shrubland
+11,7,11,0.99,2021-2022,Lichens and mosses,Grassland
+11,8,21,1.89,2021-2022,Lichens and mosses,Cropland
+11,11,776,69.84,2021-2022,Lichens and mosses,Lichens and mosses
+11,13,54,4.859999999999999,2021-2022,Lichens and mosses,Built-up
+11,20,4,0.36,2021-2022,Lichens and mosses,Forest
+12,5,13,1.17,2021-2022,Bareland,Shrubland
+12,8,4,0.36,2021-2022,Bareland,Cropland
+12,9,8,0.72,2021-2022,Bareland,Wetland
+12,12,245,22.05,2021-2022,Bareland,Bareland
+12,13,37,3.33,2021-2022,Bareland,Built-up
+12,15,2,0.18,2021-2022,Bareland,Water
+12,20,1,0.09,2021-2022,Bareland,Forest
+13,5,737,66.33,2021-2022,Built-up,Shrubland
+13,7,243,21.869999999999997,2021-2022,Built-up,Grassland
+13,8,12141,1092.69,2021-2022,Built-up,Cropland
+13,9,13,1.17,2021-2022,Built-up,Wetland
+13,11,66,5.9399999999999995,2021-2022,Built-up,Lichens and mosses
+13,12,8,0.72,2021-2022,Built-up,Bareland
+13,13,149094,13418.46,2021-2022,Built-up,Built-up
+13,20,328,29.52,2021-2022,Built-up,Forest
+15,5,1,0.09,2021-2022,Water,Shrubland
+15,8,2,0.18,2021-2022,Water,Cropland
+15,9,128,11.52,2021-2022,Water,Wetland
+15,12,5,0.44999999999999996,2021-2022,Water,Bareland
+15,15,5460,491.4,2021-2022,Water,Water
+15,20,21,1.89,2021-2022,Water,Forest
+20,5,1166,104.94,2021-2022,Forest,Shrubland
+20,7,1578,142.01999999999998,2021-2022,Forest,Grassland
+20,8,5163,464.66999999999996,2021-2022,Forest,Cropland
+20,9,143,12.87,2021-2022,Forest,Wetland
+20,11,3,0.27,2021-2022,Forest,Lichens and mosses
+20,12,5,0.44999999999999996,2021-2022,Forest,Bareland
+20,13,172,15.479999999999999,2021-2022,Forest,Built-up
+20,15,30,2.6999999999999997,2021-2022,Forest,Water
+20,20,2290574,206151.66,2021-2022,Forest,Forest
