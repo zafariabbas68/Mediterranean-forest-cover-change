@@ -38,21 +38,24 @@ This repository contains the computational workflow for analyzing multi-temporal
 git clone  https://github.com/zafariabbas68/Mediterranean-forest-cover-change
 cd mediterranean-forest-cover-change
 
-# Activate Conda environment
-conda activate Geogis
+## GRASS GIS Configuration
 
-# Set GRASS GIS environment variables
+Make sure GRASS GIS is installed from the official binary:
+
+- macOS: `/Applications/GRASS-8.4.app/...`
+
+Before using the notebooks, export the following in your terminal:
+
+```bash
 export GISBASE="/Applications/GRASS-8.4.app/Contents/Resources"
 export PATH="$GISBASE/bin:$GISBASE/scripts:$PATH"
 export PYTHONPATH="$GISBASE/etc/python:$PYTHONPATH"
 export GISDBASE="$HOME/grassdata"
-export LOCATION_NAME="mediterranean"  # Changed to match your project
+export LOCATION_NAME="my_location"
 export MAPSET="PERMANENT"
 export GRASS_PYTHON=python3
 export GRASS_SKIP_MAPSET_OWNER_CHECK=1
 
-# Initialize GRASS session
-/Applications/GRASS-8.4.app/Contents/Resources/bin/grass "$GISDBASE/$LOCATION_NAME/$MAPSET" --exec python3 -c "import grass.script as gs; print(gs.read_command('g.version'))"
 
 echo "GRASS GIS environment is ready"
 ```
