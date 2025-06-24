@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+rasterio
+netCDF4
+scipy
+plotly
+ipywidgets
+ipython
+ffmpeg-python
+grass-session  # optional utility wrapper

@@ -1,0 +1,23 @@
+name: Geogis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11  # or whichever version you're using
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - tqdm
+  - rasterio
+  - netCDF4
+  - scipy
+  - plotly
+  - ipywidgets
+  - ipython
+  - ffmpeg  # for animations
+  - grass  # (Optional: not used via conda in your setup, but mention it here if users want to install with conda)
+  - pip
+  - pip:
+      - grass-session  # optional Python helper for GRASS bindings
