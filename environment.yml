@@ -17,7 +17,7 @@ dependencies:
   - ipywidgets
   - ipython
   - ffmpeg  # for animations
-  - grass  # (Optional: not used via conda in your setup, but mention it here if users want to install with conda)
+  - grass  # (Optional: not used via conda in my setup, but I mention it here if users want to install with conda)
   - pip
   - pip:
       - grass-session  # optional Python helper for GRASS bindings
