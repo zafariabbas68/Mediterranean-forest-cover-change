@@ -23,6 +23,28 @@ This repository contains the computational workflow for analyzing multi-temporal
 
 ![Reprojected Land Cover Map](data/reprojected_3035_C3S-LC-L4-LCCS-Map-300m-P1Y-2018-v2.1.1.area-subset.48.40.30.-10_reclass_clean_ultraHD.png)
 
+## 🇮🇹 Italy Land Cover Map (50m Resolution)
+
+![Italy Land Cover](data/italy_landcover_50m_HQ.png)
+
+
+
+This land cover map of Italy was computed using **GRASS GIS** with its **Python bindings**. The original global land cover raster (`glc_fcs30_lc_1985_imported`) was:
+
+- Resampled to **50-meter resolution** using `r.resamp.stats` with mode aggregation
+- Converted to integer format for classification
+- Exported as a compressed GeoTIFF
+- Visualized using `matplotlib` with a custom colormap and labeled legend
+
+The resulting high-quality image was saved as `italy_landcover_50m_HQ.png` and is displayed above.
+
+The script includes full processing steps such as region setup, resampling, classification labeling, plotting, and export. Core Python packages used:
+
+python
+import grass.script as gs
+import rasterio
+import matplotlib.pyplot as plt
+from matplotlib.colors import ListedColormap, BoundaryNorm
 
 
 ## 🛠️ Technical Setup
@@ -165,28 +187,7 @@ setup_grass()
 
 ![Persistence of Land Cover Classes Over Time](data/Persistence%20of%20Land%20Cover%20Classes%20Over%20Time.png)
 
-## 🇮🇹 Italy Land Cover Map (50m Resolution)
 
-![Italy Land Cover](data/italy_landcover_50m_HQ.png)
-
-
-
-This land cover map of Italy was computed using **GRASS GIS** with its **Python bindings**. The original global land cover raster (`glc_fcs30_lc_1985_imported`) was:
-
-- Resampled to **50-meter resolution** using `r.resamp.stats` with mode aggregation
-- Converted to integer format for classification
-- Exported as a compressed GeoTIFF
-- Visualized using `matplotlib` with a custom colormap and labeled legend
-
-The resulting high-quality image was saved as `italy_landcover_50m_HQ.png` and is displayed above.
-
-The script includes full processing steps such as region setup, resampling, classification labeling, plotting, and export. Core Python packages used:
-
-python
-import grass.script as gs
-import rasterio
-import matplotlib.pyplot as plt
-from matplotlib.colors import ListedColormap, BoundaryNorm
 
 
 
