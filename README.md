@@ -169,6 +169,7 @@ setup_grass()
 
 ![Italy Land Cover](images/italy_landcover_50m_HQ.png)
 
+
 This land cover map of Italy was computed using **GRASS GIS** with its **Python bindings**. The original global land cover raster (`glc_fcs30_lc_1985_imported`) was:
 
 - Resampled to **50-meter resolution** using `r.resamp.stats` with mode aggregation
