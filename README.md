@@ -199,6 +199,4 @@ MIT License - See [LICENSE](LICENSE) for details.
 For technical issues or research collaborations, please contact:
 ghulamabbas.zafari@mail.polimi.it
 
----
 
-*This research implements established methodologies for land cover change analysis following [Olofsson et al., 2014] protocols, ensuring scientific rigor and reproducibility.*
