@@ -72,6 +72,8 @@ This high-resolution land cover map of Italy was computed using **GRASS GIS** wi
 ### Land Cover Change Transitions
 ![Landcover Change Transition](data/Landcover_change_transition.png)
 
+### Lombardy Land Cover Change 
+![Lombardy Land Cover Change](data/lombardy_landcover_1985_clean.png)
 ### Persistence Analysis
 ![Persistence of Land Cover Classes Over Time](data/Persistence%20of%20Land%20Cover%20Classes%20Over%20Time.png)
 
